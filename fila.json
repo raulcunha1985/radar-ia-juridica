@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-08-12T17:32:54.100Z",
+ "atualizadoEm": "2026-08-12T17:48:56.506Z",
  "janelaDias": 45,
- "total": 28,
+ "total": 29,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Punição por deepfake contra adultos esbarra em falta de previsão legal",
+   "url": "https://conjur.com.br/2026-ago-12/brasil-tem-lacuna-legal-para-punir-deepfake-prejudicial-contra-adultos/",
+   "resumoFeed": "A ausência de uma tipificação penal específica para casos envolvendo deepfake prejudicial contra adultos gera lacunas legais e incerteza jurídica no Brasil. A avaliação é de especialistas em Direito Digital e Penal ouvidos pela revista eletrônica Consultor Jurídico, a partir de casos recentes de repercussão nacional envolvendo brasileiras famosas, como a atriz Paolla Oliveira, alvo […] O post Puni",
+   "data": "2026-08-12",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-12"
+  },
   {
    "titulo": "Projeto criminaliza manipulação de inteligência artificial em processos judiciais",
    "url": "https://www.camara.leg.br/noticias/1296357-projeto-criminaliza-manipulacao-de-inteligencia-artificial-em-processos-judiciais",
