@@ -1,0 +1,255 @@
+{
+ "atualizadoEm": "2026-08-12T17:05:21.297Z",
+ "janelaDias": 45,
+ "total": 28,
+ "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
+ "itens": [
+  {
+   "titulo": "Projeto criminaliza manipulação de inteligência artificial em processos judiciais",
+   "url": "https://www.camara.leg.br/noticias/1296357-projeto-criminaliza-manipulacao-de-inteligencia-artificial-em-processos-judiciais",
+   "resumoFeed": "Depositphotos Alberto Fraga: \"Nova forma de fraude processual\" O Projeto de Lei 2543/26 prevê como crime no Código Penal o uso de técnica conhecida como “injeção de prompt” em processos judiciais e administrativos com o objetivo de obter vantagem indevida, causar dano ou influenciar resultados automatizados. A injeção de prompt ocorre, conforme o projeto, quando alguém insere comandos, instruções,",
+   "data": "2026-08-11",
+   "fonte": "Câmara — Direito e Justiça",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-se-reune-nesta-quinta-em-busca-de-consenso-sobre-ia-nas-eleicoes",
+   "resumoFeed": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, marcou para a próxima quinta-feira (13) uma reunião para alinhar com os demais ministros da Corte como devem ser julgados casos envolvendo o uso de Inteligência Artificial (IA) nas eleições deste ano. O tema será debatido a partir de um processo que aguarda julgamento no TSE, sobre o uso de imagens geradas por IA na convenção",
+   "data": "2026-08-11",
+   "fonte": "Agência Brasil — Justiça",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Daybreak models are now available on AWS",
+   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+   "resumoFeed": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+   "data": "2026-08-11",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Google’s Gemini app surges to 1 billion users",
+   "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+   "resumoFeed": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+   "data": "2026-08-11",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+   "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+   "resumoFeed": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+   "data": "2026-08-11",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+   "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+   "resumoFeed": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+   "data": "2026-08-11",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Deputada comemora nova lei de combate à violência contra crianças e adolescentes no ambiente digital; ouça a entrevista",
+   "url": "https://www.camara.leg.br/noticias/1295997-deputada-comemora-nova-lei-de-combate-a-violencia-contra-criancas-e-adolescentes-no-ambiente-digital-ouca-a-entrevista",
+   "resumoFeed": "Norma amplia punições para uso de inteligência artificial e reforça proteção às vítimas",
+   "data": "2026-08-10",
+   "fonte": "Câmara — Direito e Justiça",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+   "url": "https://openai.com/index/model-ml",
+   "resumoFeed": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
+   "data": "2026-08-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
+   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+   "resumoFeed": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+   "data": "2026-08-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+   "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+   "resumoFeed": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+   "data": "2026-08-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Tech industry is buzzing after a Claude agent hacked into a gym",
+   "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+   "resumoFeed": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+   "data": "2026-08-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+   "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+   "resumoFeed": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+   "data": "2026-08-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Lei aumenta penas para violência sexual digital contra crianças e adolescentes e endurece punições",
+   "url": "https://www.camara.leg.br/noticias/1295754-lei-aumenta-penas-para-violencia-sexual-digital-contra-criancas-e-adolescentes-e-endurece-punicoes",
+   "resumoFeed": "Norma torna crimes hediondos, amplia punições para uso de inteligência artificial e reforça proteção às vítimas",
+   "data": "2026-08-07",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Projeto cria Marco da Economia Digital e define regras para uso de IA no Brasil",
+   "url": "https://www.camara.leg.br/noticias/1295796-projeto-cria-marco-da-economia-digital-e-define-regras-para-uso-de-ia-no-brasil",
+   "resumoFeed": "Depositphotos Transformação digital tornou-se o principal vetor de competitividade econômica O Projeto de Lei 5960/25 cria o Marco de Fomento à Economia Digital no Brasil e define princípios, diretrizes, instrumentos e mecanismos voltados: ao desenvolvimento da economia digital; à soberania digital; ao uso de sistemas de inteligência artificial; à disponibilização de bases públicas de dados; ao fi",
+   "data": "2026-08-07",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Third-party cyber evaluations involving OpenAI models",
+   "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+   "resumoFeed": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+   "data": "2026-08-04",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "How we built a realtime system for responsive voice AI in six months",
+   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+   "resumoFeed": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+   "data": "2026-08-03",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Circles powers telco personalization with OpenAI technology",
+   "url": "https://openai.com/index/circles",
+   "resumoFeed": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+   "data": "2026-08-03",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+   "url": "https://openai.com/index/avatarin",
+   "resumoFeed": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+   "data": "2026-07-30",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+   "resumoFeed": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+   "data": "2026-07-29",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+   "resumoFeed": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+   "data": "2026-07-28",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Introducing OpenAI Presence",
+   "url": "https://openai.com/index/introducing-openai-presence",
+   "resumoFeed": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+   "data": "2026-07-22",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Introducing the ChatGPT for small business program",
+   "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+   "resumoFeed": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+   "data": "2026-07-21",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+   "resumoFeed": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+   "data": "2026-07-21",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+   "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+   "resumoFeed": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+   "data": "2026-07-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "ChatGPT is now a partner for your most ambitious work",
+   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+   "resumoFeed": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+   "data": "2026-07-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Introducing GPT-Live",
+   "url": "https://openai.com/index/introducing-gpt-live",
+   "resumoFeed": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+   "data": "2026-07-08",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+   "resumoFeed": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+   "data": "2026-07-07",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  },
+  {
+   "titulo": "Introducing GeneBench-Pro",
+   "url": "https://openai.com/index/introducing-genebench-pro",
+   "resumoFeed": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+   "data": "2026-06-30",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-12"
+  }
+ ]
+}

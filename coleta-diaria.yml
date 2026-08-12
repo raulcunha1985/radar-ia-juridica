@@ -1,0 +1,58 @@
+name: Coleta diária — Radar IA Jurídica
+
+on:
+  schedule:
+    # 10:20 UTC = 07:20 no horário de Brasília.
+    # Minuto quebrado de propósito: o cron do GitHub atrasa mais em horas cheias.
+    - cron: "20 10 * * *"
+  workflow_dispatch:   # permite disparar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta-radar
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Coletar feeds
+        run: node coletor-rss.mjs
+
+      - name: Comitar a fila se houve novidade
+        run: |
+          if [[ -z $(git status --porcelain fila.json) ]]; then
+            echo "Sem novidades hoje — nada a comitar."
+            exit 0
+          fi
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add fila.json
+          git commit -m "Coleta de $(date -u +%Y-%m-%d)"
+          git push
+          echo "Fila atualizada."
+
+      - name: Resumo da execução
+        if: always()
+        run: |
+          {
+            echo "### Fila do Radar IA Jurídica"
+            echo ""
+            if [[ -f fila.json ]]; then
+              node -e "const f=require('./fila.json');console.log('- Itens na fila: **'+f.total+'**');console.log('- Última atualização: '+f.atualizadoEm);console.log('');console.log('#### Mais recentes');f.itens.slice(0,10).forEach(i=>console.log('- `'+i.data+'` **'+i.fonte+'** — '+i.titulo))"
+            else
+              echo "fila.json ainda não existe."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
