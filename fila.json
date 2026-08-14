@@ -1,9 +1,54 @@
 {
- "atualizadoEm": "2026-08-13T11:12:37.640Z",
+ "atualizadoEm": "2026-08-14T11:10:18.858Z",
  "janelaDias": 45,
- "total": 29,
+ "total": 34,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "The builder’s guide to GPT‑5.6",
+   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+   "resumoFeed": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+   "data": "2026-08-13",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-14"
+  },
+  {
+   "titulo": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+   "url": "https://openai.com/index/previewing-ultrafast",
+   "resumoFeed": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+   "data": "2026-08-13",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-14"
+  },
+  {
+   "titulo": "Writer introduces new AI model and upgraded harness to contain token costs",
+   "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+   "resumoFeed": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+   "data": "2026-08-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-14"
+  },
+  {
+   "titulo": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+   "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+   "resumoFeed": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+   "data": "2026-08-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-14"
+  },
+  {
+   "titulo": "Anthropic set AI agents loose on the same task. They started a turf war.",
+   "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+   "resumoFeed": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+   "data": "2026-08-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-14"
+  },
   {
    "titulo": "Punição por deepfake contra adultos esbarra em falta de previsão legal",
    "url": "https://conjur.com.br/2026-ago-12/brasil-tem-lacuna-legal-para-punir-deepfake-prejudicial-contra-adultos/",
