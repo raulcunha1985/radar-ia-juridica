@@ -1,9 +1,63 @@
 {
- "atualizadoEm": "2026-08-14T11:10:18.858Z",
+ "atualizadoEm": "2026-08-15T10:42:10.813Z",
  "janelaDias": 45,
- "total": 34,
+ "total": 39,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Escritor aciona Justiça contra dona do ChatGPT por violação de direitos autorais",
+   "url": "https://conjur.com.br/2026-ago-14/jornalista-aciona-justica-contra-dona-do-chatgpt-por-violacao-de-direitos-autorais/",
+   "resumoFeed": "O jornalista e escritor Fernando Morais ajuizou uma ação indenizatória na 11ª Vara Cível de São Paulo por violação de direitos autorais contra a empresa OpenAI, conforme informações do jornal O Estado de S. Paulo. Morais alega que teve seus direitos violados pelo uso indevido e sem pagamento de conteúdos de livros de sua autoria […] O post Escritor aciona Justiça contra dona do ChatGPT por violaçã",
+   "data": "2026-08-15",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-15"
+  },
+  {
+   "titulo": "Revolução Digital no TJPI: inteligência artificial acelera transcrição de processos judiciais",
+   "url": "https://www.cnj.jus.br/revolucao-digital-no-tjpi-inteligencia-artificial-acelera-transcricao-de-processos-judiciais/",
+   "resumoFeed": "O Tribunal de Justiça do Estado do Piauí (TJPI) alcançou um marco na aplicação da inteligência artificial à atividade judicial. Em apenas duas semanas, a instituição utilizou sua própria infraestrutura tecnológica para transcrever 296.236 audiências, correspondentes a 80.451 horas de gravações. Se todo o conteúdo fosse reproduzido continuamente, 24 horas por dia e sem interrupções, […] The post Re",
+   "data": "2026-08-14",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-15"
+  },
+  {
+   "titulo": "CNMP e MPT lançam cartilha em webinário sobre estratégias do Ministério Público para combater o assédio eleitoral nas eleições 2026",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19667-cnmp-e-mpt-lancam-cartilha-em-webinario-sobre-estrategias-do-ministerio-publico-para-combater-o-assedio-eleitoral-nas-eleicoes-2026",
+   "resumoFeed": "Evento será realizado na segunda-feira, 17 de agosto. Na ocasião, especialistas discutem inteligência artificial, desinformação, provas digitais e cooperação institucional na proteção da liberdade de voto,",
+   "data": "2026-08-14",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-15"
+  },
+  {
+   "titulo": "Conacomp já reúne 85 comunicadores inscritos na edição de 2026",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19666-conacomp-ja-reune-85-comunicadores-inscritos-na-edicao-de-2026",
+   "resumoFeed": "O evento será realizado de 26 a 28 de agosto, na sede do Ministério Público do Estado do Tocantins (MPTO), em Palmas/TO, com o tema “Comunicação pública: inovação, governança e desafios na era da inteligência artificial”.",
+   "data": "2026-08-14",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-15"
+  },
+  {
+   "titulo": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+   "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+   "resumoFeed": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+   "data": "2026-08-14",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-15"
+  },
+  {
+   "titulo": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+   "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+   "resumoFeed": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+   "data": "2026-08-14",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-15"
+  },
   {
    "titulo": "The builder’s guide to GPT‑5.6",
    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
@@ -293,15 +347,6 @@
    "resumoFeed": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
    "data": "2026-07-07",
    "fonte": "Google — The Keyword",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Introducing GeneBench-Pro",
-   "url": "https://openai.com/index/introducing-genebench-pro",
-   "resumoFeed": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-   "data": "2026-06-30",
-   "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
   }
