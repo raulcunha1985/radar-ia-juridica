@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-08-17T10:49:46.079Z",
+ "atualizadoEm": "2026-08-18T10:48:49.723Z",
  "janelaDias": 45,
- "total": 39,
+ "total": 40,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Anthropic’s annualized revenue surges to $65B",
+   "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+   "resumoFeed": "The model maker added $18 billion in annualized revenue in two months.",
+   "data": "2026-08-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-18"
+  },
   {
    "titulo": "Escritor aciona Justiça contra dona do ChatGPT por violação de direitos autorais",
    "url": "https://conjur.com.br/2026-ago-14/jornalista-aciona-justica-contra-dona-do-chatgpt-por-violacao-de-direitos-autorais/",
