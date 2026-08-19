@@ -1,9 +1,45 @@
 {
- "atualizadoEm": "2026-08-18T10:48:49.723Z",
+ "atualizadoEm": "2026-08-19T10:48:20.760Z",
  "janelaDias": 45,
- "total": 40,
+ "total": 44,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "TSE debate combate a deepfake nas eleições",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-debate-combate-deep-fake-nas-eleicoes",
+   "resumoFeed": "Os ministros do Tribunal Superior Eleitoral (TSE) se reuniram nesta terça-feira (18) para discutir o combate à disseminação de deepfakes na campanha eleitoral. A reunião foi convocada pelo presidente do TSE, Kassio Nunes Marques, para que os ministros possam definir como será a atuação do tribunal nessa questão . O encontro ocorreu a portas fechadas e não houve declarações oficiais . Notícias rela",
+   "data": "2026-08-19",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-19"
+  },
+  {
+   "titulo": "Gabinete do Juízo ganha funcionalidade de IA que integra chat, minutas e pesquisa de precedentes",
+   "url": "https://www.cnj.jus.br/gabinete-do-juizo-ganha-funcionalidade-de-ia-que-integra-chat-minutas-e-pesquisa-de-precedentes/",
+   "resumoFeed": "O Gabinete do Juízo passa a contar com uma evolução na funcionalidade de inteligência artificial (IA). Agora, a ferramenta possui um chat direto com a IA, permitindo uma interação mais dinâmica com os usuários, além de apoiar a geração de minutas e realizar leitura assistida dos autos, ampliando as possibilidades de apoio à análise processual […] The post Gabinete do Juízo ganha funcionalidade de ",
+   "data": "2026-08-18",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-19"
+  },
+  {
+   "titulo": "Pacing model development in an era of cyber-critical capabilities",
+   "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+   "resumoFeed": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+   "data": "2026-08-18",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-19"
+  },
+  {
+   "titulo": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+   "url": "https://openai.com/index/chatgpt-for-teens",
+   "resumoFeed": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+   "data": "2026-08-18",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-19"
+  },
   {
    "titulo": "Anthropic’s annualized revenue surges to $65B",
    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
