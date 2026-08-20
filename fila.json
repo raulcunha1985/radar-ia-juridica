@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-08-19T10:48:20.760Z",
+ "atualizadoEm": "2026-08-20T10:49:44.587Z",
  "janelaDias": 45,
- "total": 44,
+ "total": 49,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+   "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+   "resumoFeed": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+   "data": "2026-08-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-20"
+  },
   {
    "titulo": "TSE debate combate a deepfake nas eleições",
    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-debate-combate-deep-fake-nas-eleicoes",
@@ -12,6 +21,24 @@
    "fonte": "Agência Brasil — Justiça",
    "trilha": "juridico",
    "coletadoEm": "2026-08-19"
+  },
+  {
+   "titulo": "Offering Zero Data Retention for frontier models",
+   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+   "resumoFeed": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+   "data": "2026-08-19",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-20"
+  },
+  {
+   "titulo": "Google packs Search and Gemini with new AI study tools",
+   "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+   "resumoFeed": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+   "data": "2026-08-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-20"
   },
   {
    "titulo": "Gabinete do Juízo ganha funcionalidade de IA que integra chat, minutas e pesquisa de precedentes",
@@ -41,6 +68,15 @@
    "coletadoEm": "2026-08-19"
   },
   {
+   "titulo": "Comissão aprova inclusão de inteligência artificial na Política Nacional de Educação Digital",
+   "url": "https://www.camara.leg.br/noticias/1298416-comissao-aprova-inclusao-de-inteligencia-artificial-na-politica-nacional-de-educacao-digital",
+   "resumoFeed": "Proposta segue em análise na Câmara dos Deputados",
+   "data": "2026-08-18",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-20"
+  },
+  {
    "titulo": "Anthropic’s annualized revenue surges to $65B",
    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
    "resumoFeed": "The model maker added $18 billion in annualized revenue in two months.",
@@ -48,6 +84,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-18"
+  },
+  {
+   "titulo": "Comissão aprova regra sobre uso de dados por inteligência artificial",
+   "url": "https://www.camara.leg.br/noticias/1297801-comissao-aprova-regra-sobre-uso-de-dados-por-inteligencia-artificial",
+   "resumoFeed": "O projeto continua em análise na Câmara; para virar lei, precisa ser aprovado pelos deputados e pelos senadores",
+   "data": "2026-08-17",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-20"
   },
   {
    "titulo": "Escritor aciona Justiça contra dona do ChatGPT por violação de direitos autorais",
