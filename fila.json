@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-08-20T10:49:44.587Z",
+ "atualizadoEm": "2026-08-21T10:50:37.689Z",
  "janelaDias": 45,
- "total": 49,
+ "total": 56,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,69 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-20"
+  },
+  {
+   "titulo": "Cartilha da Ouvidoria Nacional do Ministério Público orienta eleitores sobre desinformação e uso de inteligência artificial nas eleições de 2026",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19685-cartilha-da-ouvidoria-nacional-do-ministerio-publico-orienta-eleitores-sobre-desinformacao-e-uso-de-inteligencia-artificial-nas-eleicoes-de-2026",
+   "resumoFeed": "Com 11 páginas, a publicação está organizada em nove tópicos",
+   "data": "2026-08-20",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "Introducing AI Futures",
+   "url": "https://openai.com/index/introducing-ai-futures",
+   "resumoFeed": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+   "data": "2026-08-20",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "Stampli cuts launch hours by 68% using ChatGPT Work",
+   "url": "https://openai.com/index/stampli",
+   "resumoFeed": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+   "data": "2026-08-20",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+   "resumoFeed": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+   "data": "2026-08-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+   "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+   "resumoFeed": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+   "data": "2026-08-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "Ramp launches its own AI model router, called Router",
+   "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+   "resumoFeed": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+   "data": "2026-08-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "Meta AI’s new Mac app wants you to talk to your apps",
+   "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+   "resumoFeed": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
+   "data": "2026-08-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-21"
   },
   {
    "titulo": "TSE debate combate a deepfake nas eleições",
