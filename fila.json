@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-08-21T10:50:37.689Z",
+ "atualizadoEm": "2026-08-22T10:42:57.350Z",
  "janelaDias": 45,
- "total": 56,
+ "total": 57,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+   "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+   "resumoFeed": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+   "data": "2026-08-21",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-22"
+  },
+  {
+   "titulo": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+   "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+   "resumoFeed": "There's about to be a big fight to secure access to space.",
+   "data": "2026-08-21",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-22"
+  },
   {
    "titulo": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -491,15 +509,6 @@
    "resumoFeed": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
    "data": "2026-07-08",
    "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-   "resumoFeed": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-   "data": "2026-07-07",
-   "fonte": "Google — The Keyword",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
   }
