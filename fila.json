@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-08-22T10:42:57.350Z",
+ "atualizadoEm": "2026-08-23T10:44:04.937Z",
  "janelaDias": 45,
- "total": 57,
+ "total": 58,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "resumoFeed": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+   "data": "2026-08-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-23"
+  },
+  {
+   "titulo": "Frontier AI labs still won’t say how they’d contain a rogue model",
+   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+   "resumoFeed": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+   "data": "2026-08-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-23"
+  },
   {
    "titulo": "Nvidia just showed that the harness, not the AI model, is now the real hero",
    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -499,15 +517,6 @@
    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
    "resumoFeed": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
    "data": "2026-07-09",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Introducing GPT-Live",
-   "url": "https://openai.com/index/introducing-gpt-live",
-   "resumoFeed": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
-   "data": "2026-07-08",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
