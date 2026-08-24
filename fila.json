@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-08-23T10:44:04.937Z",
+ "atualizadoEm": "2026-08-24T10:55:36.071Z",
  "janelaDias": 45,
- "total": 58,
+ "total": 57,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+   "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+   "resumoFeed": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+   "data": "2026-08-23",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-24"
+  },
   {
    "titulo": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -499,24 +508,6 @@
    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
    "resumoFeed": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
    "data": "2026-07-21",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-   "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-   "resumoFeed": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-   "data": "2026-07-09",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "ChatGPT is now a partner for your most ambitious work",
-   "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-   "resumoFeed": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
-   "data": "2026-07-09",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
