@@ -1,9 +1,45 @@
 {
- "atualizadoEm": "2026-08-24T10:55:36.071Z",
+ "atualizadoEm": "2026-08-25T10:51:47.847Z",
  "janelaDias": 45,
- "total": 57,
+ "total": 62,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "IA a serviço da Justiça: Conecta nacionaliza três ferramentas do TJMT",
+   "url": "https://www.cnj.jus.br/ia-a-servico-da-justica-conecta-nacionaliza-tres-ferramentas-do-tjmt/",
+   "resumoFeed": "Magistradas, magistrados, servidoras e servidores da Justiça brasileira contam com três novas soluções de inteligência artificial (IA) generativa para apoiar a atividade jurisdicional. As soluções LexIA, Hannah e OMNIA, desenvolvidas pelo Tribunal de Justiça de Mato Grosso (TJMT), foram nacionalizadas pelo Conecta e estão disponíveis para tribunais de todo o país. As ferramentas, disponibilizadas ",
+   "data": "2026-08-24",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-25"
+  },
+  {
+   "titulo": "Áudio: Avanços nos direitos trabalhistas são tema de sessão pelos 80 anos do TST",
+   "url": "https://www12.senado.leg.br/noticias/audios/2026/08/avancos-nos-direitos-trabalhistas-sao-tema-de-sessao-pelos-80-anos-do-tst",
+   "resumoFeed": "Uma sessão especial do Senado celebrou, nesta segunda-feira (24), os 80 anos de criação do Tribunal Superior do Trabalho (TST). O presidente da Corte, ministro Luiz Philippe Vieira de Mello Filho, comentou os desafios do TST diante das mudanças no mundo laboral provocadas pelo advento de novas tecnologias, como a inteligência artificial e as plataformas digitais. O senador Paulo Paim (PT-RS) defen",
+   "data": "2026-08-24",
+   "fonte": "Senado",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-25"
+  },
+  {
+   "titulo": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+   "url": "https://openai.com/index/gpt-5-6-in-kiro",
+   "resumoFeed": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+   "data": "2026-08-24",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-25"
+  },
+  {
+   "titulo": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+   "resumoFeed": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+   "data": "2026-08-24",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-25"
+  },
   {
    "titulo": "Who’s behind the new ‘stealth model’ Ox Alpha?",
    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
@@ -30,6 +66,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-23"
+  },
+  {
+   "titulo": "Michael Polansky is training an AI model on skin that’s still alive",
+   "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+   "resumoFeed": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+   "data": "2026-08-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-25"
   },
   {
    "titulo": "Nvidia just showed that the harness, not the AI model, is now the real hero",
