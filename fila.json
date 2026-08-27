@@ -1,9 +1,90 @@
 {
- "atualizadoEm": "2026-08-26T10:53:26.953Z",
+ "atualizadoEm": "2026-08-27T20:33:31.773Z",
  "janelaDias": 45,
- "total": 65,
+ "total": 75,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Artigo do CNJ leva debate sobre provas produzidas por inteligência artificial à OEA",
+   "url": "https://www.cnj.jus.br/artigo-do-cnj-leva-debate-sobre-provas-produzidas-por-inteligencia-artificial-a-oea/",
+   "resumoFeed": "Artigo produzido por juízes auxiliares do Conselho Nacional de Justiça (CNJ) levou ao cenário internacional o uso de inteligência artificial (IA) na produção e na avaliação de provas judiciais. O trabalho foi compartilhado pela Organização dos Estados Americanos (OEA) durante workshop que reuniu mais de 40 magistrados das Américas, entre os dias 10 e 12 […] The post Artigo do CNJ leva debate sobre",
+   "data": "2026-08-27",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "CNMP debate IA, inovação e comunicação pública no 4º Conacomp",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19718-cnmp-debate-ia-inovacao-e-comunicacao-publica-no-4-conacomp",
+   "resumoFeed": "Evento reúne, pela primeira vez, representantes de comunicação do Ministério Público de todos os estados.",
+   "data": "2026-08-27",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "Jusbrasil anuncia aquisição da MinutaIA, especializada na elaboração de documentos",
+   "url": "https://conjur.com.br/2026-ago-27/jusbrasil-anuncia-aquisicao-do-minutaia/",
+   "resumoFeed": "O Jusbrasil, maior legal tech do Brasil, anunciou nesta quinta-feira (27/08) a aquisição da MinutaIA, empresa AI native especializada na elaboração de documentos jurídicos complexos com inteligência artificial generativa. Reconhecido pela profundidade na pesquisa jurídica e pela presença no dia a dia da quase totalidade dos profissionais do direito. As empresas combinadas se aproximam de […] O pos",
+   "data": "2026-08-27",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "TSE e Google lançam ferramenta para proteger candidatos de deepfakes",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-e-google-lancam-ferramenta-para-proteger-candidatos-de-deepfakes",
+   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) e o Google lançaram nesta quarta-feira (26), em Brasília, uma campanha para incentivar candidatos e candidatas das eleições de 2026 a utilizar uma ferramenta do YouTube capaz de identificar conteúdos gerados por inteligência artificial (IA) que reproduzem a imagem de uma pessoa. A ferramenta Detecção por Semelhanças do YouTube ( Likeness ID ) está disponível par",
+   "data": "2026-08-27",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+   "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+   "resumoFeed": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+   "data": "2026-08-27",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "The Hugging Face incident and the road ahead",
+   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+   "resumoFeed": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+   "data": "2026-08-26",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "Radar makes podcasts searchable — and usable by AI agents",
+   "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+   "resumoFeed": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+   "data": "2026-08-26",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "Ex-Meta scientists want to bring visual AI to the factory floor",
+   "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+   "resumoFeed": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+   "data": "2026-08-26",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+   "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+   "resumoFeed": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+   "data": "2026-08-26",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-27"
+  },
   {
    "titulo": "Solução de IA criada no TRF-3 ganha alcance nacional pelo Conecta",
    "url": "https://www.cnj.jus.br/solucao-de-ia-criada-no-trf-3-ganha-alcance-nacional-pelo-conecta/",
@@ -183,6 +264,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-21"
+  },
+  {
+   "titulo": "Introducing Intelligence Age",
+   "url": "https://openai.com/index/introducing-intelligence-age",
+   "resumoFeed": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+   "data": "2026-08-20",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-27"
   },
   {
    "titulo": "TSE debate combate a deepfake nas eleições",
