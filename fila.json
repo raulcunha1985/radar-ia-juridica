@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-08-27T20:33:31.773Z",
+ "atualizadoEm": "2026-08-28T21:11:50.646Z",
  "janelaDias": 45,
- "total": 75,
+ "total": 77,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Supporting Thailand’s next generation of AI startups",
+   "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+   "resumoFeed": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+   "data": "2026-08-28",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-08-28"
+  },
   {
    "titulo": "Artigo do CNJ leva debate sobre provas produzidas por inteligência artificial à OEA",
    "url": "https://www.cnj.jus.br/artigo-do-cnj-leva-debate-sobre-provas-produzidas-por-inteligencia-artificial-a-oea/",
@@ -48,6 +57,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-27"
+  },
+  {
+   "titulo": "TSE marca julgamento sobre vídeo de Bolsonaro feito por IA",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-marca-julgamento-sobre-video-de-bolsonaro-feito-por-ia",
+   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) marcou para a próxima terça-feira (1°) o julgamento de uma ação protocolada pelo PT contra a divulgação de um vídeo do ex-presidente Jair Bolsonaro feito por inteligência artificial. O caso veio à tona após o candidato à Presidência da República Flávio Bolsonaro (PL) usar a simulação de um pronunciamento do pai, que está em prisão domiciliar, durante o evento de",
+   "data": "2026-08-27",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-28"
   },
   {
    "titulo": "The Hugging Face incident and the road ahead",
