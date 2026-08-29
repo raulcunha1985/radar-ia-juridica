@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-08-28T21:11:50.646Z",
+ "atualizadoEm": "2026-08-29T15:05:55.711Z",
  "janelaDias": 45,
- "total": 77,
+ "total": 79,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "TSE recebe lançamento de três livros de Direito Eleitoral na 3ª (1º/9)",
+   "url": "https://conjur.com.br/2026-ago-29/tse-recebe-lancamento-de-tres-livros-de-direito-eleitoral-na-3a-1o-9/",
+   "resumoFeed": "Três novas obras da Editora Sobredireito sobre aspectos centrais do Direito Eleitoral serão lançadas na terça-feira (1º/9), às 18h, no Tribunal Superior Eleitoral, em Brasília. Propaganda eleitoral: liberdade de expressão, algoritmos e inteligência artificial é organizada pela ex-ministra substituta do TSE Vera Lúcia Santana Araújo, pelo defensor público do Rio de Janeiro William Akerman, pelo […]",
+   "data": "2026-08-29",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-29"
+  },
+  {
+   "titulo": "TSE decide avaliar filtro do X para recomendação de candidatos",
+   "url": "https://conjur.com.br/2026-ago-29/tse-decide-avaliar-filtro-do-x-para-recomendacao-de-candidatos/",
+   "resumoFeed": "O Tribunal Superior Eleitoral vai avaliar se o X (ex-Twitter), ao estabelecer um filtro para barrar a recomendação de candidatos durante a campanha eleitoral brasileira, deixou de incluir perfis, abrindo brecha para tratamento desigual pelo algoritmo. A alegação feita pela Coligação Brasil Pronto Para Mais, que tem Luiz Inácio Lula da Silva (PT) como candidato […] O post TSE decide avaliar filtro ",
+   "data": "2026-08-29",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-08-29"
+  },
   {
    "titulo": "Supporting Thailand’s next generation of AI startups",
    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
