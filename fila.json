@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-08-30T14:53:26.025Z",
+ "atualizadoEm": "2026-08-31T17:38:34.381Z",
  "janelaDias": 45,
- "total": 79,
+ "total": 80,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Meeting note-taker Circleback adds a free tier to attract more customers",
+   "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+   "resumoFeed": "Circleback is also introducing new pricing plans starting from $14 per month.",
+   "data": "2026-08-31",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-08-31"
+  },
   {
    "titulo": "TSE recebe lançamento de três livros de Direito Eleitoral na 3ª (1º/9)",
    "url": "https://conjur.com.br/2026-ago-29/tse-recebe-lancamento-de-tres-livros-de-direito-eleitoral-na-3a-1o-9/",
