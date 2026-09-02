@@ -1,9 +1,81 @@
 {
- "atualizadoEm": "2026-09-01T14:56:38.525Z",
+ "atualizadoEm": "2026-09-02T14:32:35.896Z",
  "janelaDias": 45,
- "total": 80,
+ "total": 88,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-rejeita-acao-para-derrubar-imagem-de-bolsonaro-feita-por-ia",
+   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (1º) rejeitar uma ação protocolada pelo PT contra a divulgação de um vídeo do ex-presidente Jair Bolsonaro feito por inteligência artificial (IA). O caso veio à tona após o candidato à Presidência da República Flávio Bolsonaro (PL) usar a simulação de um pronunciamento do pai, que está em prisão domiciliar, durante o evento de lançament",
+   "data": "2026-09-02",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "Path to Astra: critical capabilities and frontier safeguards",
+   "url": "https://openai.com/index/path-to-astra",
+   "resumoFeed": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+   "data": "2026-09-01",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+   "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+   "resumoFeed": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+   "data": "2026-09-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+   "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+   "resumoFeed": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+   "data": "2026-09-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "Google’s Android update tackles motion sickness, accessibility, and more",
+   "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+   "resumoFeed": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+   "data": "2026-09-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "Anthropic’s new Fable release is cheaper, less restrictive",
+   "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+   "resumoFeed": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+   "data": "2026-09-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+   "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+   "resumoFeed": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+   "data": "2026-09-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "Amazon Alexa can now alert you when something new might tempt you to shop",
+   "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+   "resumoFeed": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+   "data": "2026-09-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-02"
+  },
   {
    "titulo": "Meeting note-taker Circleback adds a free tier to attract more customers",
    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
