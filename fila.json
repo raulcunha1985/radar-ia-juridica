@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-02T14:32:35.896Z",
+ "atualizadoEm": "2026-09-03T14:36:40.167Z",
  "janelaDias": 45,
- "total": 88,
+ "total": 93,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "TSE esvazia regra sobre deepfake para proteger liberdade de expressão",
+   "url": "https://conjur.com.br/2026-set-03/tse-esvazia-regra-sobre-deepfake-para-proteger-liberdade-de-expressao/",
+   "resumoFeed": "Ao definir que a vedação ao uso de deepfake se restringe aos casos em que o conteúdo é caracterizado como propaganda eleitoral, o Tribunal Superior Eleitoral privilegia a liberdade de expressão no debate eleitoral, mas esvazia a própria resolução. É o que afirmam advogados ouvidos pela revista eletrônica Consultor Jurídico, em relação ao julgamento em […] O post TSE esvazia regra sobre deepfake pa",
+   "data": "2026-09-03",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-03"
+  },
   {
    "titulo": "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA",
    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-rejeita-acao-para-derrubar-imagem-de-bolsonaro-feita-por-ia",
@@ -12,6 +21,33 @@
    "fonte": "Agência Brasil — Justiça",
    "trilha": "juridico",
    "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "Justiça 4.0 oferta cursos avançados de ciência de dados",
+   "url": "https://www.cnj.jus.br/justica-4-0-oferta-cursos-avancados-de-ciencia-de-dados/",
+   "resumoFeed": "O Conselho Nacional de Justiça (CNJ) disponibilizou a magistradas, magistrados, servidoras e servidores da Justiça brasileira as capacitações autoinstrucionais em Machine Learning Avançado e Aplicações e Dashboards Avançado com R. As formações integram o Programa Justiça 4.0, iniciativa do CNJ com o Programa das Nações Unidas para o Desenvolvimento (Pnud), e são ofertadas em parceria […] The post ",
+   "data": "2026-09-02",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-03"
+  },
+  {
+   "titulo": "OpenAI’s new reasoning technique alarms AI safety experts",
+   "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+   "resumoFeed": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+   "data": "2026-09-02",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-03"
+  },
+  {
+   "titulo": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+   "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+   "resumoFeed": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+   "data": "2026-09-02",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-03"
   },
   {
    "titulo": "Path to Astra: critical capabilities and frontier safeguards",
@@ -75,6 +111,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-02"
+  },
+  {
+   "titulo": "Try Google Pics: Easy image creation and editing in Google Workspace",
+   "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+   "resumoFeed": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+   "data": "2026-09-01",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-09-03"
   },
   {
    "titulo": "Meeting note-taker Circleback adds a free tier to attract more customers",
