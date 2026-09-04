@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-03T14:36:40.167Z",
+ "atualizadoEm": "2026-09-04T14:24:01.896Z",
  "janelaDias": 45,
- "total": 93,
+ "total": 99,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Justiça dos EUA começa a punir litigantes por uso de comandos ocultos para IA",
+   "url": "https://conjur.com.br/2026-set-04/justica-dos-eua-comeca-a-punir-litigantes-por-uso-de-comandos-ocultos-para-ia/",
+   "resumoFeed": "O primeiro caso documentado de petição com comandos ocultos para burlar sistemas de inteligência artificial da Justiça, o chamado prompt injection, foi detectado nos Estados Unidos. Uma corte de Connecticut descobriu, em uma petição, “um texto formatado em fonte minúscula e branca, sobre fundo branco, invisível ao olho humano, mas legível por qualquer máquina de […] O post Justiça dos EUA começa a",
+   "data": "2026-09-04",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-04"
+  },
   {
    "titulo": "TSE esvazia regra sobre deepfake para proteger liberdade de expressão",
    "url": "https://conjur.com.br/2026-set-03/tse-esvazia-regra-sobre-deepfake-para-proteger-liberdade-de-expressao/",
@@ -12,6 +21,51 @@
    "fonte": "ConJur",
    "trilha": "juridico",
    "coletadoEm": "2026-09-03"
+  },
+  {
+   "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+   "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+   "resumoFeed": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+   "data": "2026-09-03",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-04"
+  },
+  {
+   "titulo": "Safety overview: GPT-6 Astra",
+   "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+   "resumoFeed": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+   "data": "2026-09-03",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-04"
+  },
+  {
+   "titulo": "Meta is paying to peek at how you use their latest AI model",
+   "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+   "resumoFeed": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+   "data": "2026-09-03",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-04"
+  },
+  {
+   "titulo": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+   "resumoFeed": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+   "data": "2026-09-03",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-04"
+  },
+  {
+   "titulo": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+   "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+   "resumoFeed": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+   "data": "2026-09-03",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-04"
   },
   {
    "titulo": "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA",
