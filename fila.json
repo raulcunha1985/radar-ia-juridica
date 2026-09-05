@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-09-04T14:24:01.896Z",
+ "atualizadoEm": "2026-09-05T13:28:34.575Z",
  "janelaDias": 45,
- "total": 99,
+ "total": 101,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,33 @@
    "fonte": "ConJur",
    "trilha": "juridico",
    "coletadoEm": "2026-09-04"
+  },
+  {
+   "titulo": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+   "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+   "resumoFeed": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+   "data": "2026-09-04",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-05"
+  },
+  {
+   "titulo": "What will Apple’s John Ternus era look like?",
+   "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+   "resumoFeed": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+   "data": "2026-09-04",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-05"
+  },
+  {
+   "titulo": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+   "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+   "resumoFeed": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
+   "data": "2026-09-04",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-05"
   },
   {
    "titulo": "TSE esvazia regra sobre deepfake para proteger liberdade de expressão",
@@ -66,6 +93,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-04"
+  },
+  {
+   "titulo": "GPT-6 Astra: A new generation of intelligence",
+   "url": "https://openai.com/index/gpt-6-astra",
+   "resumoFeed": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+   "data": "2026-09-03",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-05"
   },
   {
    "titulo": "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA",
@@ -868,24 +904,6 @@
    "url": "https://openai.com/index/introducing-openai-presence",
    "resumoFeed": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
    "data": "2026-07-22",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Introducing the ChatGPT for small business program",
-   "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-   "resumoFeed": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
-   "data": "2026-07-21",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-   "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-   "resumoFeed": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
-   "data": "2026-07-21",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
