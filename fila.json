@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-09-06T13:41:34.782Z",
+ "atualizadoEm": "2026-09-07T15:53:31.843Z",
  "janelaDias": 45,
- "total": 101,
+ "total": 103,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Supporting independent journalism in Ukraine",
+   "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+   "resumoFeed": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+   "data": "2026-09-07",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-07"
+  },
+  {
+   "titulo": "Research acceleration: The view inside OpenAI",
+   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+   "resumoFeed": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+   "data": "2026-09-06",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-07"
+  },
   {
    "titulo": "Justiça dos EUA começa a punir litigantes por uso de comandos ocultos para IA",
    "url": "https://conjur.com.br/2026-set-04/justica-dos-eua-comeca-a-punir-litigantes-por-uso-de-comandos-ocultos-para-ia/",
