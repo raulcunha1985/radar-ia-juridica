@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-09-08T14:35:28.933Z",
+ "atualizadoEm": "2026-09-09T14:39:06.202Z",
  "janelaDias": 45,
- "total": 103,
+ "total": 106,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+   "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+   "resumoFeed": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+   "data": "2026-09-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-09"
+  },
+  {
+   "titulo": "Introducing ChatGPT Images 2.5",
+   "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+   "resumoFeed": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+   "data": "2026-09-08",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-09"
+  },
+  {
+   "titulo": "Meta debuts its Muse AI agent. Will consumers trust it?",
+   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+   "resumoFeed": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+   "data": "2026-09-08",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-09"
+  },
   {
    "titulo": "Supporting independent journalism in Ukraine",
    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
