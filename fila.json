@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-09T14:39:06.202Z",
+ "atualizadoEm": "2026-09-10T14:29:08.495Z",
  "janelaDias": 45,
- "total": 106,
+ "total": 110,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Dimensão analítica: o lado negligenciado no uso de IA",
+   "url": "https://conjur.com.br/2026-set-10/dimensao-analitica-o-lado-negligenciado-no-uso-de-ia/",
+   "resumoFeed": "O resultado da pesquisa TIC Governo Eletrônico 2025 [1] instrumentaliza uma intuição generalizada em relação ao crescimento do uso de inteligência artificial — doravante referida tão-somente como IA — em órgãos públicos no Brasil. A comparação com os números de 2023 [2] da mesma instituição revela uma acentuada curva de incorporação da referida tecnologia e, […] O post Dimensão analítica: o lado n",
+   "data": "2026-09-10",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-10"
+  },
   {
    "titulo": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
@@ -12,6 +21,33 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-09"
+  },
+  {
+   "titulo": "GPT-6 Astra: The next generation in intelligence for work",
+   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+   "resumoFeed": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+   "data": "2026-09-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-10"
+  },
+  {
+   "titulo": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+   "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+   "resumoFeed": "The update uses Apple Intelligence to make better sense of your health data.",
+   "data": "2026-09-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-10"
+  },
+  {
+   "titulo": "Viral AI assistant Instinct now has its own email address",
+   "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+   "resumoFeed": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+   "data": "2026-09-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-10"
   },
   {
    "titulo": "Introducing ChatGPT Images 2.5",
