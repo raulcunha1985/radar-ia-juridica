@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-09-10T14:29:08.495Z",
+ "atualizadoEm": "2026-09-11T14:28:34.512Z",
  "janelaDias": 45,
- "total": 110,
+ "total": 115,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,51 @@
    "fonte": "ConJur",
    "trilha": "juridico",
    "coletadoEm": "2026-09-10"
+  },
+  {
+   "titulo": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "resumoFeed": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+   "data": "2026-09-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-11"
+  },
+  {
+   "titulo": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "resumoFeed": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+   "data": "2026-09-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-11"
+  },
+  {
+   "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "resumoFeed": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+   "data": "2026-09-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-11"
+  },
+  {
+   "titulo": "Introducing the Agents API",
+   "url": "https://openai.com/index/introducing-the-agents-api",
+   "resumoFeed": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+   "data": "2026-09-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-11"
+  },
+  {
+   "titulo": "Meta’s AI agent Muse is now the No. 2 app in the US",
+   "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+   "resumoFeed": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+   "data": "2026-09-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-11"
   },
   {
    "titulo": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
