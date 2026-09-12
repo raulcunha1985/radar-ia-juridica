@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-09-11T14:28:34.512Z",
+ "atualizadoEm": "2026-09-12T13:37:33.543Z",
  "janelaDias": 45,
- "total": 115,
+ "total": 116,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Admissibilidade e valoração da prova produzida por IA: roteiro para magistrado",
+   "url": "https://conjur.com.br/2026-set-12/a-admissibilidade-e-a-valoracao-da-prova-produzida-por-ia-um-roteiro-para-o-magistrado/",
+   "resumoFeed": "Joshua Puloka foi acusado da prática de três homicídios após um tiroteio ocorrido em 2021. A cena foi registrada pelo celular de uma testemunha e a defesa pretendia utilizar a gravação durante o julgamento. Mas, como as imagens foram gravadas em baixa resolução e com borrões durante o movimento, as cenas foram otimizadas e tratadas […] O post Admissibilidade e valoração da prova produzida por IA: ",
+   "data": "2026-09-12",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-12"
+  },
+  {
+   "titulo": "Inteligência artificial é tema de debate no Pará",
+   "url": "https://www.cnj.jus.br/inteligencia-artificial-e-tema-de-debate-no-para/",
+   "resumoFeed": "A Escola Judicial do Poder Judiciário do Estado do Pará (EJPA) lançou o Programa EJPA Conecta, iniciativa que levará magistradas, magistrados, servidoras e servidores do Tribunal de Justiça do Pará (TJPA) às instituições de ensino superior para a realização de palestras, oficinas, treinamentos e outras atividades formativas. A atividade aconteceu em 8/9, na Faculdade Estácio. […] The post Inteligê",
+   "data": "2026-09-11",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-12"
+  },
   {
    "titulo": "Dimensão analítica: o lado negligenciado no uso de IA",
    "url": "https://conjur.com.br/2026-set-10/dimensao-analitica-o-lado-negligenciado-no-uso-de-ia/",
@@ -1022,15 +1040,6 @@
    "resumoFeed": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
    "data": "2026-07-29",
    "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-   "resumoFeed": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
-   "data": "2026-07-28",
-   "fonte": "Google — The Keyword",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
   }
