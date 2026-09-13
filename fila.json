@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-09-12T13:37:33.543Z",
+ "atualizadoEm": "2026-09-13T14:26:18.061Z",
  "janelaDias": 45,
- "total": 116,
+ "total": 115,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -1030,15 +1030,6 @@
    "url": "https://openai.com/index/avatarin",
    "resumoFeed": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
    "data": "2026-07-30",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-   "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-   "resumoFeed": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-   "data": "2026-07-29",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
