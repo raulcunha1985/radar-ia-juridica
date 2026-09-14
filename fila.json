@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-09-13T14:26:18.061Z",
+ "atualizadoEm": "2026-09-14T16:23:22.419Z",
  "janelaDias": 45,
- "total": 115,
+ "total": 114,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -1021,15 +1021,6 @@
    "url": "https://openai.com/index/circles",
    "resumoFeed": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
    "data": "2026-08-03",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-   "url": "https://openai.com/index/avatarin",
-   "resumoFeed": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-   "data": "2026-07-30",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
