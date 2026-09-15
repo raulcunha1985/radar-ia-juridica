@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-09-14T16:23:22.419Z",
+ "atualizadoEm": "2026-09-15T15:03:22.438Z",
  "janelaDias": 45,
- "total": 114,
+ "total": 116,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+   "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+   "resumoFeed": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+   "data": "2026-09-15",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-15"
+  },
+  {
+   "titulo": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+   "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+   "resumoFeed": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
+   "data": "2026-09-14",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-15"
+  },
   {
    "titulo": "Admissibilidade e valoração da prova produzida por IA: roteiro para magistrado",
    "url": "https://conjur.com.br/2026-set-12/a-admissibilidade-e-a-valoracao-da-prova-produzida-por-ia-um-roteiro-para-o-magistrado/",
