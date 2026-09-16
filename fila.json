@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-09-15T15:03:22.438Z",
+ "atualizadoEm": "2026-09-16T14:59:47.232Z",
  "janelaDias": 45,
- "total": 116,
+ "total": 119,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Tempo do juízo: o freio que a indústria da IA acaba de pedir para si",
+   "url": "https://conjur.com.br/2026-set-16/tempo-do-juizo-o-freio-que-a-industria-da-inteligencia-artificial-acaba-de-pedir-para-si/",
+   "resumoFeed": "Em 12 de setembro, Dario Amodei, presidente-executivo da Anthropic, publicou um texto com uma frase que o setor vinha evitando: “we must slow the pace at which we improve the capabilities of AI models“. Em português, precisamos desacelerar o ritmo em que aumentamos a capacidade dos modelos [1]. No mesmo dia, o presidente-executivo da OpenAI […] O post Tempo do juízo: o freio que a indústria da IA ",
+   "data": "2026-09-16",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-16"
+  },
+  {
+   "titulo": "Former Infosys chief’s AI startup nabs another $53M",
+   "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+   "resumoFeed": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+   "data": "2026-09-16",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-16"
+  },
   {
    "titulo": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
@@ -12,6 +30,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-15"
+  },
+  {
+   "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "resumoFeed": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "data": "2026-09-15",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-16"
   },
   {
    "titulo": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
