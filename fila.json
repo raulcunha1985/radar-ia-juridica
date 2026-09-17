@@ -1,9 +1,45 @@
 {
- "atualizadoEm": "2026-09-16T14:59:47.232Z",
+ "atualizadoEm": "2026-09-17T15:03:30.673Z",
  "janelaDias": 45,
- "total": 119,
+ "total": 125,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Projeto cria regras para identidade digital, uso de pseudônimos e conteúdos com IA",
+   "url": "https://www.camara.leg.br/noticias/1304625-projeto-cria-regras-para-identidade-digital-uso-de-pseudonimos-e-conteudos-com-ia",
+   "resumoFeed": "Texto está em análise na Câmara dos Deputados",
+   "data": "2026-09-17",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-17"
+  },
+  {
+   "titulo": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+   "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+   "resumoFeed": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+   "data": "2026-09-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-17"
+  },
+  {
+   "titulo": "Iceland-based Treble raises $18 million for its voice simulation platform",
+   "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+   "resumoFeed": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
+   "data": "2026-09-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-17"
+  },
+  {
+   "titulo": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+   "resumoFeed": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+   "data": "2026-09-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-17"
+  },
   {
    "titulo": "Tempo do juízo: o freio que a indústria da IA acaba de pedir para si",
    "url": "https://conjur.com.br/2026-set-16/tempo-do-juizo-o-freio-que-a-industria-da-inteligencia-artificial-acaba-de-pedir-para-si/",
@@ -23,6 +59,15 @@
    "coletadoEm": "2026-09-16"
   },
   {
+   "titulo": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "resumoFeed": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+   "data": "2026-09-16",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-17"
+  },
+  {
    "titulo": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
    "resumoFeed": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
@@ -39,6 +84,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-16"
+  },
+  {
+   "titulo": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
+   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
+   "resumoFeed": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely. The post Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead appeared first on Microsoft 365 Blog .",
+   "data": "2026-09-15",
+   "fonte": "Microsoft 365",
+   "trilha": "players",
+   "coletadoEm": "2026-09-17"
   },
   {
    "titulo": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
