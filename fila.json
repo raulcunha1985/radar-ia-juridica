@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-17T15:03:30.673Z",
+ "atualizadoEm": "2026-09-18T14:32:11.031Z",
  "janelaDias": 45,
  "total": 125,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
@@ -39,6 +39,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-17"
+  },
+  {
+   "titulo": "Introducing Astra for Law",
+   "url": "https://openai.com/index/astra-for-law",
+   "resumoFeed": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+   "data": "2026-09-17",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-18"
+  },
+  {
+   "titulo": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+   "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+   "resumoFeed": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+   "data": "2026-09-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-18"
   },
   {
    "titulo": "Tempo do juízo: o freio que a indústria da IA acaba de pedir para si",
@@ -1102,24 +1120,6 @@
    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
    "resumoFeed": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
    "data": "2026-08-04",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "How we built a realtime system for responsive voice AI in six months",
-   "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-   "resumoFeed": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-   "data": "2026-08-03",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Circles powers telco personalization with OpenAI technology",
-   "url": "https://openai.com/index/circles",
-   "resumoFeed": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-   "data": "2026-08-03",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
