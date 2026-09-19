@@ -1,9 +1,63 @@
 {
- "atualizadoEm": "2026-09-18T14:32:11.031Z",
+ "atualizadoEm": "2026-09-19T13:56:24.384Z",
  "janelaDias": 45,
- "total": 125,
+ "total": 130,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "CNMP debate inovação e inteligência artificial na gestão pública durante o II Encontro Nacional de Gestão Orçamentária",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19759-cnmp-debate-inovacao-e-inteligencia-artificial-na-gestao-publica-durante-o-ii-encontro-nacional-de-gestao-orcamentaria",
+   "resumoFeed": "O encontro, sediado em Fortaleza, reúne integrantes do MP de todo o Brasil para discutir experiências, ferramentas e estratégias voltadas ao aprimoramento da área orçamentária nas instituições ministeriais.&nbsp;",
+   "data": "2026-09-18",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-19"
+  },
+  {
+   "titulo": "Introducing the Australian Youth Safety Blueprint",
+   "url": "https://openai.com/index/australian-youth-safety-blueprint",
+   "resumoFeed": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+   "data": "2026-09-18",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-19"
+  },
+  {
+   "titulo": "World model companies are keeping a lot of secrets",
+   "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "resumoFeed": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+   "data": "2026-09-18",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-19"
+  },
+  {
+   "titulo": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+   "resumoFeed": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+   "data": "2026-09-18",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-19"
+  },
+  {
+   "titulo": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+   "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+   "resumoFeed": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+   "data": "2026-09-18",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-19"
+  },
+  {
+   "titulo": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+   "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+   "resumoFeed": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+   "data": "2026-09-18",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-19"
+  },
   {
    "titulo": "Projeto cria regras para identidade digital, uso de pseudônimos e conteúdos com IA",
    "url": "https://www.camara.leg.br/noticias/1304625-projeto-cria-regras-para-identidade-digital-uso-de-pseudonimos-e-conteudos-com-ia",
@@ -1113,15 +1167,6 @@
    "resumoFeed": "Depositphotos Transformação digital tornou-se o principal vetor de competitividade econômica O Projeto de Lei 5960/25 cria o Marco de Fomento à Economia Digital no Brasil e define princípios, diretrizes, instrumentos e mecanismos voltados: ao desenvolvimento da economia digital; à soberania digital; ao uso de sistemas de inteligência artificial; à disponibilização de bases públicas de dados; ao fi",
    "data": "2026-08-07",
    "fonte": "Câmara — Ciência e Tecnologia",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Third-party cyber evaluations involving OpenAI models",
-   "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-   "resumoFeed": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-   "data": "2026-08-04",
-   "fonte": "OpenAI",
-   "trilha": "players",
    "coletadoEm": "2026-08-12"
   }
  ]
