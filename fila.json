@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-19T13:56:24.384Z",
+ "atualizadoEm": "2026-09-20T14:15:02.697Z",
  "janelaDias": 45,
- "total": 130,
+ "total": 131,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Google’s Gemini is the latest AI model to hack other companies",
+   "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+   "resumoFeed": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+   "data": "2026-09-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-20"
+  },
   {
    "titulo": "CNMP debate inovação e inteligência artificial na gestão pública durante o II Encontro Nacional de Gestão Orçamentária",
    "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19759-cnmp-debate-inovacao-e-inteligencia-artificial-na-gestao-publica-durante-o-ii-encontro-nacional-de-gestao-orcamentaria",
