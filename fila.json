@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-20T14:15:02.697Z",
+ "atualizadoEm": "2026-09-21T16:29:45.937Z",
  "janelaDias": 45,
- "total": 131,
+ "total": 132,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "World model companies are keeping a lot of secrets",
+   "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "resumoFeed": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+   "data": "2026-09-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-21"
+  },
   {
    "titulo": "Google’s Gemini is the latest AI model to hack other companies",
    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
