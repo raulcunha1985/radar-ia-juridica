@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-09-21T16:29:45.937Z",
+ "atualizadoEm": "2026-09-22T14:58:13.086Z",
  "janelaDias": 45,
- "total": 132,
+ "total": 133,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Áudio: CAS: projeto traz regras para uso da inteligência artificial na saúde pública",
+   "url": "https://www12.senado.leg.br/noticias/audios/2026/09/cas-projeto-traz-regras-para-uso-da-inteligencia-artificial-na-saude-publica",
+   "resumoFeed": "Está pronto para votação na Comissão de Assuntos Sociais do Senado (CAS) um projeto de lei que prevê a utilização da inteligência artificial (IA) na saúde pública, com regras de transparência, responsabilidade e supervisão humana. O projeto (PL 931/2026) já conta com relatório favorável nesse colegiado. Ouça o áudio.",
+   "data": "2026-09-21",
+   "fonte": "Senado",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-22"
+  },
+  {
+   "titulo": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+   "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+   "resumoFeed": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+   "data": "2026-09-21",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-22"
+  },
+  {
+   "titulo": "Meta’s AI agent has been blocked from using Amazon.com",
+   "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+   "resumoFeed": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+   "data": "2026-09-21",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-22"
+  },
   {
    "titulo": "World model companies are keeping a lot of secrets",
    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
@@ -1170,22 +1197,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-26"
-  },
-  {
-   "titulo": "Lei aumenta penas para violência sexual digital contra crianças e adolescentes e endurece punições",
-   "url": "https://www.camara.leg.br/noticias/1295754-lei-aumenta-penas-para-violencia-sexual-digital-contra-criancas-e-adolescentes-e-endurece-punicoes",
-   "resumoFeed": "Norma torna crimes hediondos, amplia punições para uso de inteligência artificial e reforça proteção às vítimas",
-   "data": "2026-08-07",
-   "fonte": "Câmara — Ciência e Tecnologia",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Projeto cria Marco da Economia Digital e define regras para uso de IA no Brasil",
-   "url": "https://www.camara.leg.br/noticias/1295796-projeto-cria-marco-da-economia-digital-e-define-regras-para-uso-de-ia-no-brasil",
-   "resumoFeed": "Depositphotos Transformação digital tornou-se o principal vetor de competitividade econômica O Projeto de Lei 5960/25 cria o Marco de Fomento à Economia Digital no Brasil e define princípios, diretrizes, instrumentos e mecanismos voltados: ao desenvolvimento da economia digital; à soberania digital; ao uso de sistemas de inteligência artificial; à disponibilização de bases públicas de dados; ao fi",
-   "data": "2026-08-07",
-   "fonte": "Câmara — Ciência e Tecnologia",
-   "coletadoEm": "2026-08-12"
   }
  ]
 }
