@@ -1,9 +1,72 @@
 {
- "atualizadoEm": "2026-09-22T14:58:13.086Z",
+ "atualizadoEm": "2026-09-23T15:03:38.185Z",
  "janelaDias": 45,
- "total": 133,
+ "total": 140,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "TSE cria ferramenta de IA para acesso a informações sobre eleições",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-cria-ferramenta-de-ia-para-acesso-informacoes-sobre-eleicoes",
+   "resumoFeed": "Um assistente virtual, criado pelo Tribunal Superior Eleitoral (TSE), ajudará os eleitores brasileiros a acessarem informações e esclarecerem dúvidas sobre o pleito que elegerá, em 2026, presidente e governadores, além dos representantes da população nos legislativos federal, estadual e distrital. Tudo de forma rápida e com linguagem acessível. Tendo como base a Inteligência Artificial (IA), o Cha",
+   "data": "2026-09-23",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "resumoFeed": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+   "data": "2026-09-23",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+   "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+   "resumoFeed": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
+   "data": "2026-09-23",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "Introducing GPT-6 Sol and Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+   "resumoFeed": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+   "data": "2026-09-22",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "Qualcomm launches two new smartphone chips with emphasis on AI",
+   "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+   "resumoFeed": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+   "data": "2026-09-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+   "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+   "resumoFeed": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+   "data": "2026-09-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "AstroForge is putting AI in command of its next spacecraft",
+   "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+   "resumoFeed": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+   "data": "2026-09-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-23"
+  },
   {
    "titulo": "Áudio: CAS: projeto traz regras para uso da inteligência artificial na saúde pública",
    "url": "https://www12.senado.leg.br/noticias/audios/2026/09/cas-projeto-traz-regras-para-uso-da-inteligencia-artificial-na-saude-publica",
