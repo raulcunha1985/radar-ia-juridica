@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-09-23T15:03:38.185Z",
+ "atualizadoEm": "2026-09-24T15:10:04.273Z",
  "janelaDias": 45,
- "total": 140,
+ "total": 144,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "IA, Sicx e o custo de não decidir",
+   "url": "https://conjur.com.br/2026-set-24/ia-sicx-e-o-custo-de-nao-decidir/",
+   "resumoFeed": "A administração pública tem sido insistentemente chamada a mergulhar no movimento mundial, que reclama inovação como característica exigível também na ação pública. Essa orientação se dá não só no incentivo à adoção do ideal de governo digital [1], mas também no desenho de políticas públicas [2]. Natural que essa mesma onda inovadora se apresentasse no […] O post IA, Sicx e o custo de não decidir ",
+   "data": "2026-09-24",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-24"
+  },
+  {
+   "titulo": "Everything new coming to Meta’s AI agent Muse",
+   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "resumoFeed": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+   "data": "2026-09-24",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-24"
+  },
+  {
+   "titulo": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+   "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+   "resumoFeed": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+   "data": "2026-09-24",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-24"
+  },
   {
    "titulo": "TSE cria ferramenta de IA para acesso a informações sobre eleições",
    "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-cria-ferramenta-de-ia-para-acesso-informacoes-sobre-eleicoes",
@@ -30,6 +57,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-23"
+  },
+  {
+   "titulo": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "resumoFeed": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+   "data": "2026-09-23",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-24"
   },
   {
    "titulo": "Introducing GPT-6 Sol and Luna",
