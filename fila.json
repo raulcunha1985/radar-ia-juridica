@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-24T15:10:04.273Z",
+ "atualizadoEm": "2026-09-25T15:18:14.245Z",
  "janelaDias": 45,
- "total": 144,
+ "total": 140,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Deepfake eleitoral: Montana falha no teste da neutralidade e TSE aposta na verossimilhança",
+   "url": "https://conjur.com.br/2026-set-25/deepfake-eleitoral-montana-falha-no-teste-da-neutralidade-e-tse-aposta-na-verossimilhanca/",
+   "resumoFeed": "Ponto de partida Em 18 de setembro de 2026, a juíza federal Susan Watters, da Corte Distrital dos Estados Unidos em Montana, suspendeu a aplicação da lei SB25 na ação Accountability in State Government v. Knudsen (aqui). A norma proibia o patrocinador de comunicação eleitoral de distribuir deepfakes nos 60 dias anteriores à votação. A […] O post Deepfake eleitoral: Montana falha no teste da neutra",
+   "data": "2026-09-25",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-25"
+  },
   {
    "titulo": "IA, Sicx e o custo de não decidir",
    "url": "https://conjur.com.br/2026-set-24/ia-sicx-e-o-custo-de-nao-decidir/",
@@ -30,6 +39,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-24"
+  },
+  {
+   "titulo": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+   "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+   "resumoFeed": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+   "data": "2026-09-24",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-25"
+  },
+  {
+   "titulo": "Google tests letting Gemini call businesses for you",
+   "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+   "resumoFeed": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+   "data": "2026-09-24",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-25"
   },
   {
    "titulo": "TSE cria ferramenta de IA para acesso a informações sobre eleições",
@@ -1234,68 +1261,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Deputada comemora nova lei de combate à violência contra crianças e adolescentes no ambiente digital; ouça a entrevista",
-   "url": "https://www.camara.leg.br/noticias/1295997-deputada-comemora-nova-lei-de-combate-a-violencia-contra-criancas-e-adolescentes-no-ambiente-digital-ouca-a-entrevista",
-   "resumoFeed": "Norma amplia punições para uso de inteligência artificial e reforça proteção às vítimas",
-   "data": "2026-08-10",
-   "fonte": "Câmara — Direito e Justiça",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-   "url": "https://openai.com/index/model-ml",
-   "resumoFeed": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-   "data": "2026-08-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
-   "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "resumoFeed": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-   "data": "2026-08-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-   "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-   "resumoFeed": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-   "data": "2026-08-10",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Tech industry is buzzing after a Claude agent hacked into a gym",
-   "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-   "resumoFeed": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-   "data": "2026-08-10",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-   "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-   "resumoFeed": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
-   "data": "2026-08-10",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Premium seats are coming to ChatGPT Business",
-   "url": "https://openai.com/index/premium-seats-chatgpt-business",
-   "resumoFeed": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-   "data": "2026-08-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-26"
   }
  ]
 }
