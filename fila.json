@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-09-25T15:18:14.245Z",
+ "atualizadoEm": "2026-09-26T14:32:02.737Z",
  "janelaDias": 45,
  "total": 140,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
@@ -12,6 +12,51 @@
    "fonte": "ConJur",
    "trilha": "juridico",
    "coletadoEm": "2026-09-25"
+  },
+  {
+   "titulo": "Zanin manda investigar uso de IA para burlar sistema do STF",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf",
+   "resumoFeed": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF),determinou nesta sexta-feira (25) a abertura de investigação para apurar o uso de inteligência artificial (IA) para direcionar o sistema eletrônico da Corte. A medida foi tomada após o Supremo identificar o uso de prompt de comando para forçar o sistema eletrônico a aceitar automaticamente um recurso protocolado na Corte. Notícias relac",
+   "data": "2026-09-25",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-26"
+  },
+  {
+   "titulo": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+   "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+   "resumoFeed": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear",
+   "data": "2026-09-25",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-26"
+  },
+  {
+   "titulo": "Meta is putting its muscle behind Muse as the AI app takes off",
+   "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+   "resumoFeed": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
+   "data": "2026-09-25",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-26"
+  },
+  {
+   "titulo": "Meta’s AI Tamagotchi bet is…working?",
+   "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+   "resumoFeed": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear",
+   "data": "2026-09-25",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-26"
+  },
+  {
+   "titulo": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+   "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+   "resumoFeed": "The latest unauthorized agent swarms were discovered by researchers.",
+   "data": "2026-09-25",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-26"
   },
   {
    "titulo": "IA, Sicx e o custo de não decidir",
@@ -1085,6 +1130,15 @@
    "coletadoEm": "2026-08-20"
   },
   {
+   "titulo": "Asana completed a years-long code migration in 2 weeks with Codex",
+   "url": "https://openai.com/index/asana",
+   "resumoFeed": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in model and infrastructure costs.",
+   "data": "2026-08-18",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-26"
+  },
+  {
    "titulo": "Anthropic’s annualized revenue surges to $65B",
    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
    "resumoFeed": "The model maker added $18 billion in annualized revenue in two months.",
@@ -1208,58 +1262,6 @@
    "data": "2026-08-12",
    "fonte": "ConJur",
    "trilha": "juridico",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Projeto criminaliza manipulação de inteligência artificial em processos judiciais",
-   "url": "https://www.camara.leg.br/noticias/1296357-projeto-criminaliza-manipulacao-de-inteligencia-artificial-em-processos-judiciais",
-   "resumoFeed": "Depositphotos Alberto Fraga: \"Nova forma de fraude processual\" O Projeto de Lei 2543/26 prevê como crime no Código Penal o uso de técnica conhecida como “injeção de prompt” em processos judiciais e administrativos com o objetivo de obter vantagem indevida, causar dano ou influenciar resultados automatizados. A injeção de prompt ocorre, conforme o projeto, quando alguém insere comandos, instruções,",
-   "data": "2026-08-11",
-   "fonte": "Câmara — Direito e Justiça",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "TSE se reúne nesta quinta em busca de consenso sobre IA nas eleições",
-   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-se-reune-nesta-quinta-em-busca-de-consenso-sobre-ia-nas-eleicoes",
-   "resumoFeed": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, marcou para a próxima quinta-feira (13) uma reunião para alinhar com os demais ministros da Corte como devem ser julgados casos envolvendo o uso de Inteligência Artificial (IA) nas eleições deste ano. O tema será debatido a partir de um processo que aguarda julgamento no TSE, sobre o uso de imagens geradas por IA na convenção",
-   "data": "2026-08-11",
-   "fonte": "Agência Brasil — Justiça",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Daybreak models are now available on AWS",
-   "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "resumoFeed": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-   "data": "2026-08-11",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Google’s Gemini app surges to 1 billion users",
-   "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-   "resumoFeed": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-   "data": "2026-08-11",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
-   "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-   "resumoFeed": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
-   "data": "2026-08-11",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-12"
-  },
-  {
-   "titulo": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-   "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-   "resumoFeed": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-   "data": "2026-08-11",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
    "coletadoEm": "2026-08-12"
   }
  ]
