@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-09-26T14:32:02.737Z",
+ "atualizadoEm": "2026-09-27T15:11:04.206Z",
  "janelaDias": 45,
  "total": 140,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "resumoFeed": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+   "data": "2026-09-27",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-27"
+  },
   {
    "titulo": "Deepfake eleitoral: Montana falha no teste da neutralidade e TSE aposta na verossimilhança",
    "url": "https://conjur.com.br/2026-set-25/deepfake-eleitoral-montana-falha-no-teste-da-neutralidade-e-tse-aposta-na-verossimilhanca/",
@@ -1254,15 +1263,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-14"
-  },
-  {
-   "titulo": "Punição por deepfake contra adultos esbarra em falta de previsão legal",
-   "url": "https://conjur.com.br/2026-ago-12/brasil-tem-lacuna-legal-para-punir-deepfake-prejudicial-contra-adultos/",
-   "resumoFeed": "A ausência de uma tipificação penal específica para casos envolvendo deepfake prejudicial contra adultos gera lacunas legais e incerteza jurídica no Brasil. A avaliação é de especialistas em Direito Digital e Penal ouvidos pela revista eletrônica Consultor Jurídico, a partir de casos recentes de repercussão nacional envolvendo brasileiras famosas, como a atriz Paolla Oliveira, alvo […] O post Puni",
-   "data": "2026-08-12",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-12"
   }
  ]
 }
