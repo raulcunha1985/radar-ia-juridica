@@ -1,9 +1,45 @@
 {
- "atualizadoEm": "2026-09-27T15:11:04.206Z",
+ "atualizadoEm": "2026-09-28T18:11:06.570Z",
  "janelaDias": 45,
  "total": 140,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+   "resumoFeed": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+   "data": "2026-09-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-28"
+  },
+  {
+   "titulo": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+   "resumoFeed": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+   "data": "2026-09-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-28"
+  },
+  {
+   "titulo": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+   "resumoFeed": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+   "data": "2026-09-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-28"
+  },
+  {
+   "titulo": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+   "resumoFeed": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+   "data": "2026-09-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-28"
+  },
   {
    "titulo": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -66,6 +102,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-26"
+  },
+  {
+   "titulo": "Introducing the new Copilot with Home, Code and Autopilot",
+   "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+   "resumoFeed": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilot appeared first on AI at Work Blog .",
+   "data": "2026-09-25",
+   "fonte": "Microsoft 365",
+   "trilha": "players",
+   "coletadoEm": "2026-09-28"
   },
   {
    "titulo": "IA, Sicx e o custo de não decidir",
@@ -1218,51 +1263,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-15"
-  },
-  {
-   "titulo": "The builder’s guide to GPT‑5.6",
-   "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "resumoFeed": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-   "data": "2026-08-13",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-14"
-  },
-  {
-   "titulo": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-   "url": "https://openai.com/index/previewing-ultrafast",
-   "resumoFeed": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-   "data": "2026-08-13",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-14"
-  },
-  {
-   "titulo": "Writer introduces new AI model and upgraded harness to contain token costs",
-   "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-   "resumoFeed": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-   "data": "2026-08-13",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-14"
-  },
-  {
-   "titulo": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-   "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-   "resumoFeed": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-   "data": "2026-08-13",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-14"
-  },
-  {
-   "titulo": "Anthropic set AI agents loose on the same task. They started a turf war.",
-   "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-   "resumoFeed": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-   "data": "2026-08-13",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-14"
   }
  ]
 }
