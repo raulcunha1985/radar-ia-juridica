@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-09-28T18:11:06.570Z",
+ "atualizadoEm": "2026-09-29T16:31:58.884Z",
  "janelaDias": 45,
  "total": 140,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+   "resumoFeed": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-29"
+  },
+  {
+   "titulo": "Meta is expanding its AI agent Muse to small businesses",
+   "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+   "resumoFeed": "The tech giant says the agent can help owners run their business and find new customers.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-29"
+  },
+  {
+   "titulo": "Reco raises $55M as AI agent security startups crowd the market",
+   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+   "resumoFeed": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-29"
+  },
   {
    "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
@@ -39,6 +66,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-28"
+  },
+  {
+   "titulo": "OpenAI reportedly ditches model over safety concerns",
+   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+   "resumoFeed": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+   "data": "2026-09-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-29"
+  },
+  {
+   "titulo": "Shopify opens checkout to browser-based AI agents",
+   "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+   "resumoFeed": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+   "data": "2026-09-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-29"
   },
   {
    "titulo": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -1217,51 +1262,6 @@
    "data": "2026-08-15",
    "fonte": "ConJur",
    "trilha": "juridico",
-   "coletadoEm": "2026-08-15"
-  },
-  {
-   "titulo": "Revolução Digital no TJPI: inteligência artificial acelera transcrição de processos judiciais",
-   "url": "https://www.cnj.jus.br/revolucao-digital-no-tjpi-inteligencia-artificial-acelera-transcricao-de-processos-judiciais/",
-   "resumoFeed": "O Tribunal de Justiça do Estado do Piauí (TJPI) alcançou um marco na aplicação da inteligência artificial à atividade judicial. Em apenas duas semanas, a instituição utilizou sua própria infraestrutura tecnológica para transcrever 296.236 audiências, correspondentes a 80.451 horas de gravações. Se todo o conteúdo fosse reproduzido continuamente, 24 horas por dia e sem interrupções, […] The post Re",
-   "data": "2026-08-14",
-   "fonte": "CNJ",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-15"
-  },
-  {
-   "titulo": "CNMP e MPT lançam cartilha em webinário sobre estratégias do Ministério Público para combater o assédio eleitoral nas eleições 2026",
-   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19667-cnmp-e-mpt-lancam-cartilha-em-webinario-sobre-estrategias-do-ministerio-publico-para-combater-o-assedio-eleitoral-nas-eleicoes-2026",
-   "resumoFeed": "Evento será realizado na segunda-feira, 17 de agosto. Na ocasião, especialistas discutem inteligência artificial, desinformação, provas digitais e cooperação institucional na proteção da liberdade de voto,",
-   "data": "2026-08-14",
-   "fonte": "CNMP",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-15"
-  },
-  {
-   "titulo": "Conacomp já reúne 85 comunicadores inscritos na edição de 2026",
-   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19666-conacomp-ja-reune-85-comunicadores-inscritos-na-edicao-de-2026",
-   "resumoFeed": "O evento será realizado de 26 a 28 de agosto, na sede do Ministério Público do Estado do Tocantins (MPTO), em Palmas/TO, com o tema “Comunicação pública: inovação, governança e desafios na era da inteligência artificial”.",
-   "data": "2026-08-14",
-   "fonte": "CNMP",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-15"
-  },
-  {
-   "titulo": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-   "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-   "resumoFeed": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-   "data": "2026-08-14",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-15"
-  },
-  {
-   "titulo": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-   "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-   "resumoFeed": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-   "data": "2026-08-14",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
    "coletadoEm": "2026-08-15"
   }
  ]
