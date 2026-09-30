@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-09-29T16:31:58.884Z",
+ "atualizadoEm": "2026-09-30T16:25:38.206Z",
  "janelaDias": 45,
- "total": 140,
+ "total": 149,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Formar para decidir: letramento digital no Judiciário",
+   "url": "https://conjur.com.br/2026-set-30/formar-para-decidir-letramento-digital-no-judiciario/",
+   "resumoFeed": "Em março deste ano, pesquisadores da Universidade Northwestern divulgaram, pela Sedona Conference, o primeiro levantamento por amostra aleatória sobre o uso de inteligência artificial por juízes federais norte-americanos. Dos 502 magistrados sorteados, responderam 112 (taxa de 22,3%). Entre os respondentes, 61,6% declararam usar ao menos uma ferramenta de IA no trabalho judicial, embora apenas 5,4",
+   "data": "2026-09-30",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "Meta disputes claim that Muse read a user’s private messages without permission",
+   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+   "resumoFeed": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+   "data": "2026-09-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "DoorDash launches an AI agent you can text to order food",
+   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+   "resumoFeed": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+   "data": "2026-09-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
   {
    "titulo": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
@@ -30,6 +57,69 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-29"
+  },
+  {
+   "titulo": "Introducing GPT-6.1 Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+   "resumoFeed": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+   "data": "2026-09-29",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "Introducing dots",
+   "url": "https://openai.com/index/introducing-dots",
+   "resumoFeed": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+   "data": "2026-09-29",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+   "resumoFeed": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "OpenAI’s latest features take direct aim at the app store model",
+   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+   "resumoFeed": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+   "resumoFeed": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+   "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+   "resumoFeed": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "AI-powered app maker Wabi pivots to a messaging experience",
+   "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+   "resumoFeed": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+   "data": "2026-09-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-09-30"
   },
   {
    "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
@@ -1254,15 +1344,6 @@
    "fonte": "Câmara — Ciência e Tecnologia",
    "trilha": "juridico",
    "coletadoEm": "2026-08-20"
-  },
-  {
-   "titulo": "Escritor aciona Justiça contra dona do ChatGPT por violação de direitos autorais",
-   "url": "https://conjur.com.br/2026-ago-14/jornalista-aciona-justica-contra-dona-do-chatgpt-por-violacao-de-direitos-autorais/",
-   "resumoFeed": "O jornalista e escritor Fernando Morais ajuizou uma ação indenizatória na 11ª Vara Cível de São Paulo por violação de direitos autorais contra a empresa OpenAI, conforme informações do jornal O Estado de S. Paulo. Morais alega que teve seus direitos violados pelo uso indevido e sem pagamento de conteúdos de livros de sua autoria […] O post Escritor aciona Justiça contra dona do ChatGPT por violaçã",
-   "data": "2026-08-15",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-15"
   }
  ]
 }
