@@ -1,9 +1,63 @@
 {
- "atualizadoEm": "2026-09-30T16:25:38.206Z",
+ "atualizadoEm": "2026-10-01T17:02:44.726Z",
  "janelaDias": 45,
- "total": 149,
+ "total": 159,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Áudio: Descartada em encontro de EUA e China, regulação da IA é analisada no Brasil",
+   "url": "https://www12.senado.leg.br/noticias/audios/2026/10/descartada-em-encontro-de-eua-e-china-regulacao-da-ia-e-analisada-no-brasil",
+   "resumoFeed": "Descartada no encontro entre os presidentes dos Estados Unidos, Donald Trump, e da China, Xi Jinping, no fim de setembro, a regulação da inteligência artificial (IA) é debatida pelo Congresso brasileiro com o projeto de Marco Legal da IA (PL 2.338/2023), já aprovado pelo Senado e que está em discussão na Câmara, com 37 propostas anexadas. Há ainda projetos como o que prevê IA para monitorar agress",
+   "data": "2026-10-01",
+   "fonte": "Senado",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Moraes multa em R$ 5 mil advogado que tentou burlar sistema do STF",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-multa-em-r-5-mil-advogado-que-tentou-burlar-sistema-do-stf",
+   "resumoFeed": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), decidiu multar um advogado em R$ 5 mil por inserção de comandos ocultos em uma petição, com o objetivo de burlar os sistemas de inteligência artificial da Corte. O advogado Marcelo Henrique Martins, registrado na seccional mineira da Ordem dos Advogados do Brasil (OAB), atua na defesa de um dos réus pelos ataques antidemocráticos d",
+   "data": "2026-10-01",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "How Albertsons Companies is reimagining retail from the inside out",
+   "url": "https://openai.com/index/albertsons-reimagining-retail",
+   "resumoFeed": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+   "data": "2026-10-01",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Amazon releases its own Jev clone as decision models flood the web",
+   "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+   "resumoFeed": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+   "data": "2026-10-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+   "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+   "resumoFeed": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+   "data": "2026-10-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Brian Chesky interview: AI agents need their own operating system",
+   "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+   "resumoFeed": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+   "data": "2026-10-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
   {
    "titulo": "Formar para decidir: letramento digital no Judiciário",
    "url": "https://conjur.com.br/2026-set-30/formar-para-decidir-letramento-digital-no-judiciario/",
@@ -30,6 +84,42 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-30"
+  },
+  {
+   "titulo": "Disrupting a coordinated model-distillation campaign",
+   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+   "resumoFeed": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+   "data": "2026-09-30",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Google releases Gemini 4 Argon, called its most powerful model yet",
+   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+   "resumoFeed": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+   "data": "2026-09-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+   "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+   "resumoFeed": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+   "data": "2026-09-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+   "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+   "resumoFeed": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+   "data": "2026-09-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-01"
   },
   {
    "titulo": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
