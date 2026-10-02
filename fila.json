@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-01T17:02:44.726Z",
+ "atualizadoEm": "2026-10-02T16:17:17.491Z",
  "janelaDias": 45,
- "total": 159,
+ "total": 160,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "A model guide for the GPT-6 family",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "resumoFeed": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+   "data": "2026-10-02",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-02"
+  },
   {
    "titulo": "Áudio: Descartada em encontro de EUA e China, regulação da IA é analisada no Brasil",
    "url": "https://www12.senado.leg.br/noticias/audios/2026/10/descartada-em-encontro-de-eua-e-china-regulacao-da-ia-e-analisada-no-brasil",
@@ -57,6 +66,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-01"
+  },
+  {
+   "titulo": "Atalaia: ferramenta de IA do CNJ para gestão processual é tema de reunião com a OAB",
+   "url": "https://www.cnj.jus.br/atalaia-ferramenta-de-ia-do-cnj-para-gestao-processual-e-tema-de-reuniao-com-a-oab/",
+   "resumoFeed": "O Conselho Nacional de Justiça (CNJ) se reuniu, na tarde desta quinta-feira (1º/10), com representantes da Ordem dos Advogados do Brasil (OAB) para apresentar o projeto Atalaia, ferramenta que utiliza inteligência artificial e análise de dados para identificar padrões de demandas de massa e de litigância abusiva em todo o país. O encontro teve como […] The post Atalaia: ferramenta de IA do CNJ par",
+   "data": "2026-10-01",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-02"
+  },
+  {
+   "titulo": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+   "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+   "resumoFeed": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+   "data": "2026-10-01",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-02"
   },
   {
    "titulo": "Formar para decidir: letramento digital no Judiciário",
@@ -1416,24 +1443,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-09-26"
-  },
-  {
-   "titulo": "Anthropic’s annualized revenue surges to $65B",
-   "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-   "resumoFeed": "The model maker added $18 billion in annualized revenue in two months.",
-   "data": "2026-08-17",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-18"
-  },
-  {
-   "titulo": "Comissão aprova regra sobre uso de dados por inteligência artificial",
-   "url": "https://www.camara.leg.br/noticias/1297801-comissao-aprova-regra-sobre-uso-de-dados-por-inteligencia-artificial",
-   "resumoFeed": "O projeto continua em análise na Câmara; para virar lei, precisa ser aprovado pelos deputados e pelos senadores",
-   "data": "2026-08-17",
-   "fonte": "Câmara — Ciência e Tecnologia",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-20"
   }
  ]
 }
