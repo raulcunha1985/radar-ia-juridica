@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-02T16:17:17.491Z",
+ "atualizadoEm": "2026-10-03T14:44:44.006Z",
  "janelaDias": 45,
- "total": 160,
+ "total": 156,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "‘Companheiros de IA’ entram na mira do Ministério da Justiça e Segurança Pública",
+   "url": "https://conjur.com.br/2026-out-03/companheiros-de-ia-entram-na-mira-do-ministerio-da-justica-e-seguranca-publica/",
+   "resumoFeed": "Uma nova geração de serviços de inteligência artificial passou a oferecer “companhia”. Plataformas capazes de manter conversas recorrentes, armazenar informações sobre o usuário, adaptar respostas ao longo do tempo e simular traços de personalidade, amizade, afeto e até relações românticas. O que acontece quando esse tipo de tecnologia é utilizado por crianças e adolescentes? Nesta […] O post ‘Com",
+   "data": "2026-10-03",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-03"
+  },
   {
    "titulo": "A model guide for the GPT-6 family",
    "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -1398,51 +1407,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-20"
-  },
-  {
-   "titulo": "Gabinete do Juízo ganha funcionalidade de IA que integra chat, minutas e pesquisa de precedentes",
-   "url": "https://www.cnj.jus.br/gabinete-do-juizo-ganha-funcionalidade-de-ia-que-integra-chat-minutas-e-pesquisa-de-precedentes/",
-   "resumoFeed": "O Gabinete do Juízo passa a contar com uma evolução na funcionalidade de inteligência artificial (IA). Agora, a ferramenta possui um chat direto com a IA, permitindo uma interação mais dinâmica com os usuários, além de apoiar a geração de minutas e realizar leitura assistida dos autos, ampliando as possibilidades de apoio à análise processual […] The post Gabinete do Juízo ganha funcionalidade de ",
-   "data": "2026-08-18",
-   "fonte": "CNJ",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-19"
-  },
-  {
-   "titulo": "Pacing model development in an era of cyber-critical capabilities",
-   "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-   "resumoFeed": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-   "data": "2026-08-18",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-19"
-  },
-  {
-   "titulo": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-   "url": "https://openai.com/index/chatgpt-for-teens",
-   "resumoFeed": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-   "data": "2026-08-18",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-19"
-  },
-  {
-   "titulo": "Comissão aprova inclusão de inteligência artificial na Política Nacional de Educação Digital",
-   "url": "https://www.camara.leg.br/noticias/1298416-comissao-aprova-inclusao-de-inteligencia-artificial-na-politica-nacional-de-educacao-digital",
-   "resumoFeed": "Proposta segue em análise na Câmara dos Deputados",
-   "data": "2026-08-18",
-   "fonte": "Câmara — Ciência e Tecnologia",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-20"
-  },
-  {
-   "titulo": "Asana completed a years-long code migration in 2 weeks with Codex",
-   "url": "https://openai.com/index/asana",
-   "resumoFeed": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, with about $12K in model and infrastructure costs.",
-   "data": "2026-08-18",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-26"
   }
  ]
 }
