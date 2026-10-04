@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-03T14:44:44.006Z",
+ "atualizadoEm": "2026-10-04T15:23:50.063Z",
  "janelaDias": 45,
- "total": 156,
+ "total": 153,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -1380,33 +1380,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "TSE debate combate a deepfake nas eleições",
-   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-debate-combate-deep-fake-nas-eleicoes",
-   "resumoFeed": "Os ministros do Tribunal Superior Eleitoral (TSE) se reuniram nesta terça-feira (18) para discutir o combate à disseminação de deepfakes na campanha eleitoral. A reunião foi convocada pelo presidente do TSE, Kassio Nunes Marques, para que os ministros possam definir como será a atuação do tribunal nessa questão . O encontro ocorreu a portas fechadas e não houve declarações oficiais . Notícias rela",
-   "data": "2026-08-19",
-   "fonte": "Agência Brasil — Justiça",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-19"
-  },
-  {
-   "titulo": "Offering Zero Data Retention for frontier models",
-   "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-   "resumoFeed": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-   "data": "2026-08-19",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-20"
-  },
-  {
-   "titulo": "Google packs Search and Gemini with new AI study tools",
-   "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-   "resumoFeed": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-   "data": "2026-08-19",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-20"
   }
  ]
 }
