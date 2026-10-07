@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-06T16:50:10.884Z",
+ "atualizadoEm": "2026-10-07T17:26:45.020Z",
  "janelaDias": 45,
- "total": 150,
+ "total": 151,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Introducing Playground: Create and play custom games",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "resumoFeed": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+   "data": "2026-10-07",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-10-07"
+  },
+  {
+   "titulo": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+   "resumoFeed": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+   "data": "2026-10-07",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-07"
+  },
   {
    "titulo": "Mirror Particle is building a ‘world model’ of human behavior",
    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
@@ -30,6 +48,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-06"
+  },
+  {
+   "titulo": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "resumoFeed": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+   "data": "2026-10-06",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-07"
+  },
+  {
+   "titulo": "How AI decision models could change content moderation",
+   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+   "resumoFeed": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+   "data": "2026-10-06",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-07"
   },
   {
    "titulo": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
@@ -1326,33 +1362,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-24"
-  },
-  {
-   "titulo": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-   "resumoFeed": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-   "data": "2026-08-22",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-23"
-  },
-  {
-   "titulo": "Frontier AI labs still won’t say how they’d contain a rogue model",
-   "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-   "resumoFeed": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-   "data": "2026-08-22",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-23"
-  },
-  {
-   "titulo": "Michael Polansky is training an AI model on skin that’s still alive",
-   "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-   "resumoFeed": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
-   "data": "2026-08-22",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-25"
   }
  ]
 }
