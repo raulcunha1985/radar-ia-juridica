@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-07T17:26:45.020Z",
+ "atualizadoEm": "2026-10-08T17:25:04.000Z",
  "janelaDias": 45,
- "total": 151,
+ "total": 156,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+   "resumoFeed": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+   "data": "2026-10-08",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-08"
+  },
+  {
+   "titulo": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+   "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+   "resumoFeed": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+   "data": "2026-10-08",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-08"
+  },
   {
    "titulo": "Introducing Playground: Create and play custom games",
    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
@@ -21,6 +39,42 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-07"
+  },
+  {
+   "titulo": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "resumoFeed": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+   "data": "2026-10-07",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-08"
+  },
+  {
+   "titulo": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "resumoFeed": "The developer of Hermes Agent raised a $90 million Series B.",
+   "data": "2026-10-07",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-08"
+  },
+  {
+   "titulo": "Meta’s Muse launches on iPad just a month after its mobile debut",
+   "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+   "resumoFeed": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+   "data": "2026-10-07",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-08"
+  },
+  {
+   "titulo": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "resumoFeed": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+   "data": "2026-10-07",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-08"
   },
   {
    "titulo": "Mirror Particle is building a ‘world model’ of human behavior",
@@ -1353,15 +1407,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-25"
-  },
-  {
-   "titulo": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-   "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-   "resumoFeed": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-   "data": "2026-08-23",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-24"
   }
  ]
 }
