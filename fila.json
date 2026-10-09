@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-08T17:25:04.000Z",
+ "atualizadoEm": "2026-10-09T17:01:00.375Z",
  "janelaDias": 45,
- "total": 156,
+ "total": 155,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "a16z’s Olivia Moore on the state of consumer AI",
+   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+   "resumoFeed": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+   "data": "2026-10-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-09"
+  },
   {
    "titulo": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
@@ -21,6 +30,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-08"
+  },
+  {
+   "titulo": "Google brings agentic AI to Gemini, starting with businesses",
+   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "resumoFeed": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+   "data": "2026-10-08",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-09"
+  },
+  {
+   "titulo": "Anthropic changes usage policy to ban model abuse and election interference",
+   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+   "resumoFeed": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+   "data": "2026-10-08",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-09"
   },
   {
    "titulo": "Introducing Playground: Create and play custom games",
@@ -1371,42 +1398,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-08-26"
-  },
-  {
-   "titulo": "IA a serviço da Justiça: Conecta nacionaliza três ferramentas do TJMT",
-   "url": "https://www.cnj.jus.br/ia-a-servico-da-justica-conecta-nacionaliza-tres-ferramentas-do-tjmt/",
-   "resumoFeed": "Magistradas, magistrados, servidoras e servidores da Justiça brasileira contam com três novas soluções de inteligência artificial (IA) generativa para apoiar a atividade jurisdicional. As soluções LexIA, Hannah e OMNIA, desenvolvidas pelo Tribunal de Justiça de Mato Grosso (TJMT), foram nacionalizadas pelo Conecta e estão disponíveis para tribunais de todo o país. As ferramentas, disponibilizadas ",
-   "data": "2026-08-24",
-   "fonte": "CNJ",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-25"
-  },
-  {
-   "titulo": "Áudio: Avanços nos direitos trabalhistas são tema de sessão pelos 80 anos do TST",
-   "url": "https://www12.senado.leg.br/noticias/audios/2026/08/avancos-nos-direitos-trabalhistas-sao-tema-de-sessao-pelos-80-anos-do-tst",
-   "resumoFeed": "Uma sessão especial do Senado celebrou, nesta segunda-feira (24), os 80 anos de criação do Tribunal Superior do Trabalho (TST). O presidente da Corte, ministro Luiz Philippe Vieira de Mello Filho, comentou os desafios do TST diante das mudanças no mundo laboral provocadas pelo advento de novas tecnologias, como a inteligência artificial e as plataformas digitais. O senador Paulo Paim (PT-RS) defen",
-   "data": "2026-08-24",
-   "fonte": "Senado",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-25"
-  },
-  {
-   "titulo": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-   "url": "https://openai.com/index/gpt-5-6-in-kiro",
-   "resumoFeed": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-   "data": "2026-08-24",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-25"
-  },
-  {
-   "titulo": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-   "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-   "resumoFeed": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-   "data": "2026-08-24",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-25"
   }
  ]
 }
