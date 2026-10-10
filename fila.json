@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-09T17:01:00.375Z",
+ "atualizadoEm": "2026-10-10T15:53:13.283Z",
  "janelaDias": 45,
- "total": 155,
+ "total": 157,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,42 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-09"
+  },
+  {
+   "titulo": "Corregedoria Nacional do MP apresenta o projeto Bússola Digital, que abrange sistemas finalísticos, inteligência artificial, cibersegurança e governança de dados",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19814-corregedoria-nacional-do-mp-apresenta-o-projeto-bussola-digital-que-abrange-sistemas-finalisticos-inteligencia-artificial-ciberseguranca-e-governanca-de-dados",
+   "resumoFeed": "Projeto foi apresentado no Expojud, evento voltado à tecnologia, à inovação e ao direito no ecossistema de Justiça.",
+   "data": "2026-10-09",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-10"
+  },
+  {
+   "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "resumoFeed": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+   "data": "2026-10-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-10"
+  },
+  {
+   "titulo": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "resumoFeed": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+   "data": "2026-10-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-10"
+  },
+  {
+   "titulo": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "resumoFeed": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+   "data": "2026-10-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-10"
   },
   {
    "titulo": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
@@ -1380,24 +1416,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "Solução de IA criada no TRF-3 ganha alcance nacional pelo Conecta",
-   "url": "https://www.cnj.jus.br/solucao-de-ia-criada-no-trf-3-ganha-alcance-nacional-pelo-conecta/",
-   "resumoFeed": "Tarefas cotidianas de magistradas, magistrados, servidoras e servidores podem ser apoiadas pela ferramenta de inteligência artificial LIA3R, desenvolvida pelo Tribunal Regional Federal da 3ª Região (TRF-3) e nacionalizada pelo Conecta, iniciativa do Programa Justiça 4.0 que identifica soluções criadas por tribunais e as disponibiliza em escala nacional. Atualmente, a ferramenta conta com mais de 2",
-   "data": "2026-08-25",
-   "fonte": "CNJ",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-26"
-  },
-  {
-   "titulo": "Introducing the Admin plugin for ChatGPT Work and Codex",
-   "url": "https://openai.com/index/introducing-admin-plugin",
-   "resumoFeed": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-   "data": "2026-08-25",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-26"
   }
  ]
 }
