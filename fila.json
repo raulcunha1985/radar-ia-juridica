@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-10T15:53:13.283Z",
+ "atualizadoEm": "2026-10-11T16:20:27.273Z",
  "janelaDias": 45,
- "total": 157,
+ "total": 153,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -1380,42 +1380,6 @@
    "fonte": "Agência Brasil — Justiça",
    "trilha": "juridico",
    "coletadoEm": "2026-08-28"
-  },
-  {
-   "titulo": "The Hugging Face incident and the road ahead",
-   "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-   "resumoFeed": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-   "data": "2026-08-26",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "Radar makes podcasts searchable — and usable by AI agents",
-   "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-   "resumoFeed": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-   "data": "2026-08-26",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "Ex-Meta scientists want to bring visual AI to the factory floor",
-   "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-   "resumoFeed": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-   "data": "2026-08-26",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-   "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-   "resumoFeed": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-   "data": "2026-08-26",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-27"
   }
  ]
 }
