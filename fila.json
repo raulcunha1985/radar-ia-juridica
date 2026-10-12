@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-11T16:20:27.273Z",
+ "atualizadoEm": "2026-10-12T19:49:34.579Z",
  "janelaDias": 45,
- "total": 153,
+ "total": 149,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Meta releases its first frontier model, Muse Wonder",
+   "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "resumoFeed": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+   "data": "2026-10-12",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-12"
+  },
+  {
+   "titulo": "Will the HomeView be Apple’s first smart home success?",
+   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+   "resumoFeed": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+   "data": "2026-10-11",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-12"
+  },
   {
    "titulo": "a16z’s Olivia Moore on the state of consumer AI",
    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
@@ -1325,60 +1343,6 @@
    "data": "2026-08-28",
    "fonte": "OpenAI",
    "trilha": "players",
-   "coletadoEm": "2026-08-28"
-  },
-  {
-   "titulo": "Artigo do CNJ leva debate sobre provas produzidas por inteligência artificial à OEA",
-   "url": "https://www.cnj.jus.br/artigo-do-cnj-leva-debate-sobre-provas-produzidas-por-inteligencia-artificial-a-oea/",
-   "resumoFeed": "Artigo produzido por juízes auxiliares do Conselho Nacional de Justiça (CNJ) levou ao cenário internacional o uso de inteligência artificial (IA) na produção e na avaliação de provas judiciais. O trabalho foi compartilhado pela Organização dos Estados Americanos (OEA) durante workshop que reuniu mais de 40 magistrados das Américas, entre os dias 10 e 12 […] The post Artigo do CNJ leva debate sobre",
-   "data": "2026-08-27",
-   "fonte": "CNJ",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "CNMP debate IA, inovação e comunicação pública no 4º Conacomp",
-   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19718-cnmp-debate-ia-inovacao-e-comunicacao-publica-no-4-conacomp",
-   "resumoFeed": "Evento reúne, pela primeira vez, representantes de comunicação do Ministério Público de todos os estados.",
-   "data": "2026-08-27",
-   "fonte": "CNMP",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "Jusbrasil anuncia aquisição da MinutaIA, especializada na elaboração de documentos",
-   "url": "https://conjur.com.br/2026-ago-27/jusbrasil-anuncia-aquisicao-do-minutaia/",
-   "resumoFeed": "O Jusbrasil, maior legal tech do Brasil, anunciou nesta quinta-feira (27/08) a aquisição da MinutaIA, empresa AI native especializada na elaboração de documentos jurídicos complexos com inteligência artificial generativa. Reconhecido pela profundidade na pesquisa jurídica e pela presença no dia a dia da quase totalidade dos profissionais do direito. As empresas combinadas se aproximam de […] O pos",
-   "data": "2026-08-27",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "TSE e Google lançam ferramenta para proteger candidatos de deepfakes",
-   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-e-google-lancam-ferramenta-para-proteger-candidatos-de-deepfakes",
-   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) e o Google lançaram nesta quarta-feira (26), em Brasília, uma campanha para incentivar candidatos e candidatas das eleições de 2026 a utilizar uma ferramenta do YouTube capaz de identificar conteúdos gerados por inteligência artificial (IA) que reproduzem a imagem de uma pessoa. A ferramenta Detecção por Semelhanças do YouTube ( Likeness ID ) está disponível par",
-   "data": "2026-08-27",
-   "fonte": "Agência Brasil — Justiça",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-   "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-   "resumoFeed": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-   "data": "2026-08-27",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-27"
-  },
-  {
-   "titulo": "TSE marca julgamento sobre vídeo de Bolsonaro feito por IA",
-   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/tse-marca-julgamento-sobre-video-de-bolsonaro-feito-por-ia",
-   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) marcou para a próxima terça-feira (1°) o julgamento de uma ação protocolada pelo PT contra a divulgação de um vídeo do ex-presidente Jair Bolsonaro feito por inteligência artificial. O caso veio à tona após o candidato à Presidência da República Flávio Bolsonaro (PL) usar a simulação de um pronunciamento do pai, que está em prisão domiciliar, durante o evento de",
-   "data": "2026-08-27",
-   "fonte": "Agência Brasil — Justiça",
-   "trilha": "juridico",
    "coletadoEm": "2026-08-28"
   }
  ]
