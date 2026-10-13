@@ -196,3 +196,25 @@ Valores aceitos em `theme`: `judiciario`, `mp`, `regulacao`, `decisoes`, `lgpd`,
 Valores aceitos em `relevance`: `alta`, `media`, `baixa`.
 
 Não remova os marcadores — a tarefa diária os usa para localizar onde inserir. Depois de editar, rode `node build-site.mjs` para refletir a mudança no site.
+
+---
+
+## 8. Calculadora de correção monetária (padrão TJRJ)
+
+`calculadora-correcao.mjs` atualiza débitos judiciais cíveis com índices oficiais do Banco Central (API SGS), sem depender do site do TJRJ, que exige reCAPTCHA e não pode ser automatizado.
+
+Critério padrão, ajustável por opção conforme o título judicial:
+
+| Período | Correção | Juros |
+|---|---|---|
+| até 29/08/2024 | IPCA-E (tabela da CGJ, Lei 6.899/81) | 1% ao mês |
+| a partir de 30/08/2024 | IPCA (art. 389 CC) | taxa legal (art. 406 CC, Res. CMN 5.171/2024; negativa = zero) |
+
+```
+node calculadora-correcao.mjs --valor 10000 --data 15/01/2024 --juros-desde 10/03/2024 --ate 13/10/2026 --multa 10 --detalhe
+node calculadora-correcao.mjs --parcela 5000@10/02/2024 --parcela 5000@10/03/2024@20/04/2024 --json
+node calculadora-correcao.mjs --ajuda
+node --test calculadora-correcao.test.mjs
+```
+
+Séries usadas: IPCA 433, IPCA-E 10764, INPC 188, IGP-M 189, taxa legal 29543. Por trás de proxy, rode com `NODE_USE_ENV_PROXY=1`. As convenções de contagem (meses de correção, proporção de agosto/2024, juros simples pro rata die sobre o valor corrigido) estão descritas no cabeçalho do script. O resultado serve para conferência: compare com a tabela de fatores da CGJ/TJRJ antes de usar em peça.
