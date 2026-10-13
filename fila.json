@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-12T19:49:34.579Z",
+ "atualizadoEm": "2026-10-13T17:37:04.319Z",
  "janelaDias": 45,
- "total": 149,
+ "total": 150,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "resumoFeed": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+   "data": "2026-10-13",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-10-13"
+  },
+  {
+   "titulo": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "resumoFeed": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "data": "2026-10-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-13"
+  },
   {
    "titulo": "Meta releases its first frontier model, Muse Wonder",
    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
@@ -1335,15 +1353,6 @@
    "fonte": "ConJur",
    "trilha": "juridico",
    "coletadoEm": "2026-08-29"
-  },
-  {
-   "titulo": "Supporting Thailand’s next generation of AI startups",
-   "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-   "resumoFeed": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-   "data": "2026-08-28",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-08-28"
   }
  ]
 }
