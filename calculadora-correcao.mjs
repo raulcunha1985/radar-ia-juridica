@@ -20,9 +20,11 @@
      de jan/2025 a set/2026. Dias dentro do mês não contam.
    - No mês do marco (ago/2024) o índice é proporcional aos dias:
      29 dias do índice anterior e 2 dias do novo.
-   - Juros: simples (não capitalizados), pro rata die, contados do
-     termo inicial (inclusive) à data final (exclusive), sobre o
-     valor já corrigido. Cada dia vale taxa do mês ÷ dias do mês.
+   - Juros: simples (não capitalizados), pro rata die, sobre o
+     valor já corrigido. Contam do dia seguinte ao termo inicial
+     até a data final, inclusive (art. 132 CC): vencimento em
+     05/09 e data final 12/10 dão 25 dias em setembro e 12 em
+     outubro. Cada dia vale taxa do mês ÷ dias do mês.
    - Taxa legal: série SGS 29543, que o BC publica no início de
      cada mês. Taxa negativa vale zero (art. 406, § 3º, CC).
    - Deflação: meses de índice negativo entram na conta, salvo
@@ -34,6 +36,8 @@
           --juros-desde 10/03/2023 --ate 13/10/2026 --multa 10
      node calculadora-correcao.mjs --parcela 5000@10/02/2024 \
           --parcela 5000@10/03/2024@20/04/2024 --json
+     node calculadora-correcao.mjs --caso exemplos/restituicao-compra-venda.json \
+          --detalhe > memoria.md
 
    Opções:
      --valor V --data D      débito único (V aceita 1234.56 ou 1.234,56)
@@ -48,6 +52,8 @@
      --multa N               % sobre o subtotal (ex.: art. 523 CPC = 10)
      --honorarios N          % sobre o subtotal
      --sem-deflacao          trata índice negativo como zero
+     --caso ARQ.json         caso com várias rubricas (créditos, deduções,
+                             multas percentuais); gera memória em Markdown
      --json                  saída em JSON
      --detalhe               imprime a memória mês a mês
 
@@ -126,6 +132,12 @@ function proximoMes(mes) {
 
 function primeiroDia(mes) {
   return `${mes}-01`;
+}
+
+function somarDias(data, n) {
+  const { a, m, d } = partes(data);
+  const t = new Date(Date.UTC(a, m - 1, d + n));
+  return validarData(t.getUTCFullYear(), t.getUTCMonth() + 1, t.getUTCDate(), data);
 }
 
 function diasEntre(ini, fim) {
@@ -257,21 +269,23 @@ export function corrigir(valor, dataDebito, dataFinal, series, opcoes = {}) {
   for (let mes = mesDe(dataDebito); mes < mesDe(dataFinal); mes = proximoMes(mes)) {
     const { taxa, nota } = indiceDoMes(series, mes, o);
     fator *= 1 + taxa / 100;
-    meses.push({ mes, taxa: arred(taxa, 6), fatorAcumulado: arred(fator, 9), indice: nota });
+    meses.push({ mes, taxa: arred(taxa, 6), fatorAcumulado: arred(fator, 12), indice: nota });
   }
   return { fator, valorCorrigido: valor * fator, meses };
 }
 
-/* Juros simples pro rata die: soma, por mês, (taxa × dias ÷ dias do mês). */
+/* Juros simples pro rata die: soma, por mês, (taxa × dias ÷ dias do mês).
+   Dias contados de (dataInicio, dataFinal], como manda o art. 132 CC. */
 export function juros(dataInicio, dataFinal, series, opcoes = {}) {
   const o = { ...PADRAO, ...opcoes };
   const trechos = [];
   let percentual = 0;
-  let ini = dataInicio;
-  while (ini < dataFinal) {
+  let ini = somarDias(dataInicio, 1);
+  const limite = somarDias(dataFinal, 1);
+  while (ini < limite) {
     const mes = mesDe(ini);
     const fimMes = primeiroDia(proximoMes(mes));
-    let fim = fimMes < dataFinal ? fimMes : dataFinal;
+    let fim = fimMes < limite ? fimMes : limite;
     const antesDoMarco = ini < o.marco;
     if (antesDoMarco && fim > o.marco) fim = o.marco;
 
@@ -289,10 +303,10 @@ export function juros(dataInicio, dataFinal, series, opcoes = {}) {
     const dias = diasEntre(ini, fim);
     const parcial = taxaMensal * dias / diasNoMes(a, m);
     percentual += parcial;
-    trechos.push({ de: ini, ate: fim, dias, taxaMensal, percentual: arred(parcial, 6), regra: nota });
+    trechos.push({ de: ini, ate: somarDias(fim, -1), dias, taxaMensal, percentual: arred(parcial, 6), regra: nota });
     ini = fim;
   }
-  return { percentual, trechos };
+  return { percentual, dias: diasEntre(dataInicio, dataFinal), trechos };
 }
 
 /* parcelas: [{ valor, data, jurosDesde? }] */
@@ -311,8 +325,9 @@ export function calcular(parcelas, dataFinal, series, opcoes = {}) {
       valorOriginal: p.valor,
       data: p.data,
       jurosDesde,
-      fatorCorrecao: arred(c.fator, 9),
+      fatorCorrecao: arred(c.fator, 12),
       valorCorrigido: arred(c.valorCorrigido, 2),
+      jurosDias: j.dias,
       jurosPercentual: arred(j.percentual, 6),
       valorJuros: arred(valorJuros, 2),
       total: arred(arred(c.valorCorrigido, 2) + arred(valorJuros, 2), 2),
@@ -353,6 +368,225 @@ export function calcular(parcelas, dataFinal, series, opcoes = {}) {
 function arred(n, casas) {
   const f = 10 ** casas;
   return Math.round((n + Number.EPSILON) * f) / f;
+}
+
+/* ------------------------------------------------------------
+   CASO — várias rubricas somadas ou deduzidas
+   ------------------------------------------------------------
+   Um caso é um JSON com rubricas de dois tipos:
+   - com "parcelas": cada uma atualizada pelos critérios da
+     rubrica (correção + juros), como no cálculo simples;
+   - com "percentual": percentual de outra rubrica ("base"),
+     sobre o valor "original", "corrigido" ou "total".
+   "sinal" diz se a rubrica soma (+) ou deduz (-) do resultado.
+   Ver exemplos/restituicao-compra-venda.json.
+   ------------------------------------------------------------ */
+
+function criteriosDa(caso, rubrica) {
+  return { ...PADRAO, ...(caso.criterios || {}), ...(rubrica.criterios || {}) };
+}
+
+function normalizarCaso(caso) {
+  const dataFinal = lerData(caso.dataFinal);
+  const rubricas = caso.rubricas.map((r) => ({
+    ...r,
+    sinal: r.sinal === "-" ? -1 : 1,
+    criterios: r.criterios && {
+      ...r.criterios,
+      ...(r.criterios.marco ? { marco: lerData(r.criterios.marco) } : {}),
+    },
+    parcelas: r.parcelas?.map((p) => ({
+      descricao: p.descricao || "",
+      valor: lerValor(p.valor),
+      data: lerData(p.data),
+      jurosDesde: p.jurosDesde ? lerData(p.jurosDesde) : undefined,
+    })),
+  }));
+  return { ...caso, dataFinal, rubricas };
+}
+
+export async function carregarSeriesCaso(caso) {
+  const c = normalizarCaso(caso);
+  const series = {};
+  for (const r of c.rubricas) {
+    if (r.parcelas) series[r.id] = await carregarSeries(r.parcelas, c.dataFinal, criteriosDa(c, r));
+  }
+  return series;
+}
+
+/* Função pura: recebe as séries de cada rubrica já baixadas. */
+export function calcularCaso(caso, seriesPorRubrica) {
+  const c = normalizarCaso(caso);
+  const feitas = {};
+  const rubricas = c.rubricas.map((r) => {
+    let out;
+    if (r.parcelas) {
+      const o = criteriosDa(c, r);
+      const calc = calcular(r.parcelas, c.dataFinal, seriesPorRubrica[r.id] || {}, o);
+      calc.parcelas.forEach((p, i) => { p.descricao = r.parcelas[i].descricao; });
+      out = {
+        tipo: "parcelas",
+        criterios: calc.criterios,
+        temJuros: !(Number(o.jurosAntes) === 0 && Number(o.jurosDepois) === 0),
+        parcelas: calc.parcelas,
+        original: calc.totais.original,
+        corrigido: calc.totais.corrigido,
+        juros: calc.totais.juros,
+        total: calc.totais.subtotal,
+      };
+    } else if (r.percentual !== undefined) {
+      const base = feitas[r.base];
+      if (!base) throw new Error(`Rubrica "${r.id}": base "${r.base}" precisa vir antes dela.`);
+      const sobre = r.sobre || "total";
+      if (!["original", "corrigido", "total"].includes(sobre)) throw new Error(`Rubrica "${r.id}": "sobre" inválido.`);
+      const valor = arred(base[sobre] * r.percentual / 100, 2);
+      out = {
+        tipo: "percentual",
+        percentual: r.percentual,
+        base: r.base,
+        sobre,
+        original: arred(base.original * r.percentual / 100, 2),
+        corrigido: valor,
+        juros: 0,
+        total: valor,
+      };
+    } else {
+      throw new Error(`Rubrica "${r.id}" sem "parcelas" nem "percentual".`);
+    }
+    out = { id: r.id, nome: r.nome || r.id, sinal: r.sinal, nota: r.nota, ...out };
+    feitas[r.id] = out;
+    return out;
+  });
+
+  const nominal = arred(rubricas.reduce((s, r) => s + r.sinal * r.original, 0), 2);
+  const total = arred(rubricas.reduce((s, r) => s + r.sinal * r.total, 0), 2);
+  const resultado = { titulo: c.titulo, subtitulo: c.subtitulo, dataFinal: c.dataFinal, rubricas, nominal, total };
+
+  if (c.parcelamento) {
+    const { entradaPercentual, parcelas } = c.parcelamento;
+    const dividir = (v) => {
+      const parcela = Math.floor(v * (1 - entradaPercentual / 100) / parcelas * 100 + 1e-9) / 100;
+      return { total: v, entrada: arred(v - parcela * parcelas, 2), parcelas, parcela };
+    };
+    resultado.parcelamento = { entradaPercentual, corrigido: dividir(total), nominal: dividir(nominal) };
+  }
+  resultado.observacoes = c.observacoes || [];
+  return resultado;
+}
+
+/* Memória de cálculo em Markdown. */
+export function memoriaCaso(r, detalhe = false) {
+  const out = [];
+  const moeda = (v) => brl.format(v);
+  const assinado = (r0, v) => (r0.sinal < 0 ? `-${moeda(v)}` : moeda(v));
+  const descrever = (k) => {
+    const c = k.criterios;
+    const correcao = c.correcaoAntes === c.correcaoDepois
+      ? `correção pelo ${c.correcaoAntes}`
+      : `correção pelo ${c.correcaoAntes} até ${dataBR(diaAnterior(c.marco))} e pelo ${c.correcaoDepois} a partir de ${dataBR(c.marco)}`;
+    if (!k.temJuros) return `${correcao}; sem juros`;
+    const juros = c.jurosAntes === c.jurosDepois
+      ? `juros de ${c.jurosAntes}`
+      : `juros de ${c.jurosAntes} até ${dataBR(diaAnterior(c.marco))} e ${c.jurosDepois} a partir de ${dataBR(c.marco)}`;
+    return `${correcao}; ${juros}, simples, pro rata die, do dia seguinte ao termo inicial até ${dataBR(r.dataFinal)}`;
+  };
+
+  out.push(`# ${r.titulo || "Memória de cálculo"}`, "");
+  if (r.subtitulo) out.push(r.subtitulo, "");
+  out.push(`**Posição em ${dataBR(r.dataFinal)}.** Índices: Banco Central do Brasil (SGS).`, "");
+
+  out.push("## Resumo", "");
+  out.push("| Rubrica | Critério | Nominal | Atualizado |", "|---|---|--:|--:|");
+  for (const k of r.rubricas) {
+    const criterio = k.tipo === "percentual"
+      ? `${num(k.percentual, 2)}% do valor ${k.sobre} de "${r.rubricas.find((x) => x.id === k.base).nome}"`
+      : descrever(k);
+    const sinal = k.sinal < 0 ? "(−) " : "";
+    out.push(`| ${sinal}${k.nome} | ${criterio} | ${assinado(k, k.original)} | ${assinado(k, k.total)} |`);
+    if (k.tipo === "parcelas" && k.temJuros && k.juros) {
+      out.push(`| &nbsp;&nbsp;dos quais juros | | | ${assinado(k, k.juros)} |`);
+    }
+  }
+  out.push(`| **Resultado** | | **${moeda(r.nominal)}** | **${moeda(r.total)}** |`, "");
+
+  r.rubricas.forEach((k, i) => {
+    out.push(`## ${i + 1}. ${k.nome}`, "");
+    if (k.nota) out.push(k.nota, "");
+    if (k.tipo === "percentual") {
+      const base = r.rubricas.find((x) => x.id === k.base);
+      out.push(`${num(k.percentual, 2)}% × ${moeda(base[k.sobre])} (valor ${k.sobre} de "${base.nome}") = **${moeda(k.total)}**. `
+        + `Sobre o valor nominal: ${num(k.percentual, 2)}% × ${moeda(base.original)} = ${moeda(k.original)}.`, "");
+      return;
+    }
+    out.push(`Critério: ${descrever(k)}.`, "");
+    if (k.temJuros) {
+      out.push("| Parcela | Data | Valor | Fator | Corrigido | Termo inicial | Dias | Juros % | Juros | Total |",
+        "|---|---|--:|--:|--:|---|--:|--:|--:|--:|");
+      for (const p of k.parcelas) {
+        out.push(`| ${p.descricao} | ${dataBR(p.data)} | ${moeda(p.valorOriginal)} | ${num(p.fatorCorrecao, 8)} | ${moeda(p.valorCorrigido)} `
+          + `| ${dataBR(p.jurosDesde)} | ${p.jurosDias} | ${num(p.jurosPercentual, 4)}% | ${moeda(p.valorJuros)} | ${moeda(p.total)} |`);
+      }
+      out.push(`| **Total** | | **${moeda(k.original)}** | | **${moeda(k.corrigido)}** | | | | **${moeda(k.juros)}** | **${moeda(k.total)}** |`, "");
+    } else {
+      out.push("| Parcela | Data | Valor | Período do índice | Fator | Corrigido |", "|---|---|--:|---|--:|--:|");
+      for (const p of k.parcelas) {
+        const m = p.memoriaCorrecao;
+        const periodo = m.length ? `${mesBR(m[0].mes)} a ${mesBR(m[m.length - 1].mes)}` : "—";
+        out.push(`| ${p.descricao} | ${dataBR(p.data)} | ${moeda(p.valorOriginal)} | ${periodo} | ${num(p.fatorCorrecao, 8)} | ${moeda(p.valorCorrigido)} |`);
+      }
+      out.push(`| **Total** | | **${moeda(k.original)}** | | | **${moeda(k.corrigido)}** |`, "");
+    }
+  });
+
+  if (r.parcelamento) {
+    const pc = r.parcelamento;
+    out.push("## Forma de pagamento", "");
+    out.push(`| Base | Total | Entrada (${num(pc.entradaPercentual, 0)}%) | Parcelas |`, "|---|--:|--:|--:|");
+    out.push(`| Atualizado | ${moeda(pc.corrigido.total)} | ${moeda(pc.corrigido.entrada)} | ${pc.corrigido.parcelas} × ${moeda(pc.corrigido.parcela)} |`);
+    out.push(`| Nominal | ${moeda(pc.nominal.total)} | ${moeda(pc.nominal.entrada)} | ${pc.nominal.parcelas} × ${moeda(pc.nominal.parcela)} |`, "");
+    out.push("Parcelas arredondadas para baixo no centavo; a diferença vai para a entrada.", "");
+  }
+
+  if (r.observacoes.length) {
+    out.push("## Observações", "");
+    r.observacoes.forEach((o) => out.push(`- ${o}`));
+    out.push("");
+  }
+
+  if (detalhe) {
+    let letra = 65;
+    for (const k of r.rubricas.filter((x) => x.tipo === "parcelas")) {
+      out.push(`## Anexo ${String.fromCharCode(letra++)}. Correção mês a mês — ${k.nome}`, "");
+      const meses = [...new Set(k.parcelas.flatMap((p) => p.memoriaCorrecao.map((m) => m.mes)))].sort();
+      const porParcela = k.parcelas.map((p) => Object.fromEntries(p.memoriaCorrecao.map((m) => [m.mes, m])));
+      const ref = (mes) => porParcela.find((x) => x[mes])[mes];
+      out.push(`| Mês | Índice | Variação | ${k.parcelas.map((p) => `Fator acum. ${p.descricao}`).join(" | ")} |`,
+        `|---|---|--:|${k.parcelas.map(() => "--:").join("|")}|`);
+      for (const mes of meses) {
+        out.push(`| ${mesBR(mes)} | ${ref(mes).indice} | ${num(ref(mes).taxa, 4)}% | `
+          + `${porParcela.map((x) => (x[mes] ? num(x[mes].fatorAcumulado, 8) : "—")).join(" | ")} |`);
+      }
+      out.push("");
+      if (!k.temJuros) continue;
+      out.push(`## Anexo ${String.fromCharCode(letra++)}. Juros dia a dia por mês — ${k.nome}`, "");
+      out.push("Juros do mês = dias em mora no mês ÷ dias do mês × taxa do mês.", "");
+      const trechos = k.parcelas.map((p) => p.memoriaJuros);
+      const chaves = [...new Set(trechos.flat().map((t) => `${mesDe(t.de)}|${t.regra}`))].sort();
+      out.push(`| Mês | Regra | Taxa a.m. | Dias do mês | ${k.parcelas.map((p) => p.descricao).join(" | ")} |`,
+        `|---|---|--:|--:|${k.parcelas.map(() => "--:").join("|")}|`);
+      for (const ch of chaves) {
+        const [mes, regra] = ch.split("|");
+        const t0 = trechos.flat().find((t) => mesDe(t.de) === mes && t.regra === regra);
+        const { a, m } = partes(t0.de);
+        const dias = trechos.map((ts) => ts.filter((t) => mesDe(t.de) === mes && t.regra === regra).reduce((s, t) => s + t.dias, 0));
+        out.push(`| ${mesBR(mes)} | ${regra} | ${num(t0.taxaMensal, 6)}% | ${diasNoMes(a, m)} | ${dias.join(" | ")} |`);
+      }
+      out.push(`| **Juros acumulados** | | | | ${k.parcelas.map((p) => `**${num(p.jurosPercentual, 4)}%**`).join(" | ")} |`, "");
+    }
+  }
+
+  out.push("---", "", "Gerado por `calculadora-correcao.mjs`. Resultado para conferência: confira índices e critérios antes de usar em peça.");
+  return out.join("\n");
 }
 
 /* ------------------------------------------------------------
@@ -410,6 +644,7 @@ function lerArgs(argv) {
       case "--sem-deflacao":  args.opcoes.deflacao = false; break;
       case "--json":          args.json = true; break;
       case "--detalhe":       args.detalhe = true; break;
+      case "--caso":          args.caso = prox(); break;
       case "--ajuda": case "-h": args.ajuda = true; break;
       default: throw new Error(`Opção desconhecida: ${a} (veja --ajuda)`);
     }
@@ -449,7 +684,7 @@ function imprimir(r, detalhe) {
       }
       out.push("  memória dos juros:");
       for (const t of p.memoriaJuros) {
-        out.push(`    ${dataBR(t.de)} a ${dataBR(diaAnterior(t.ate))}  ${String(t.dias).padStart(2)} dias × `
+        out.push(`    ${dataBR(t.de)} a ${dataBR(t.ate)}  ${String(t.dias).padStart(2)} dias × `
           + `${num(t.taxaMensal, 6)}% a.m.  = ${num(t.percentual, 6)}%  ${t.regra}`);
       }
     }
@@ -471,13 +706,18 @@ function imprimir(r, detalhe) {
 }
 
 function diaAnterior(data) {
-  const { a, m, d } = partes(data);
-  const t = new Date(Date.UTC(a, m - 1, d - 1));
-  return validarData(t.getUTCFullYear(), t.getUTCMonth() + 1, t.getUTCDate(), data);
+  return somarDias(data, -1);
 }
 
 async function main() {
   const args = lerArgs(process.argv.slice(2));
+  if (args.caso) {
+    const fs = await import("node:fs");
+    const caso = JSON.parse(fs.readFileSync(args.caso, "utf8"));
+    const r = calcularCaso(caso, await carregarSeriesCaso(caso));
+    console.log(args.json ? JSON.stringify(r, null, 1) : memoriaCaso(r, args.detalhe));
+    return;
+  }
   if (args.ajuda || !args.parcelas.length) {
     const fonte = (await import("node:fs")).readFileSync(fileURLToPath(import.meta.url), "utf8");
     console.log(fonte.slice(fonte.indexOf("   Uso:"), fonte.indexOf("   Por trás de proxy")).replace(/^ {3}/gm, ""));

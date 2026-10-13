@@ -213,8 +213,13 @@ Critério padrão, ajustável por opção conforme o título judicial:
 ```
 node calculadora-correcao.mjs --valor 10000 --data 15/01/2024 --juros-desde 10/03/2024 --ate 13/10/2026 --multa 10 --detalhe
 node calculadora-correcao.mjs --parcela 5000@10/02/2024 --parcela 5000@10/03/2024@20/04/2024 --json
+node calculadora-correcao.mjs --caso exemplos/restituicao-compra-venda.json --detalhe > memoria.md
 node calculadora-correcao.mjs --ajuda
 node --test calculadora-correcao.test.mjs
 ```
 
-Séries usadas: IPCA 433, IPCA-E 10764, INPC 188, IGP-M 189, taxa legal 29543. Por trás de proxy, rode com `NODE_USE_ENV_PROXY=1`. As convenções de contagem (meses de correção, proporção de agosto/2024, juros simples pro rata die sobre o valor corrigido) estão descritas no cabeçalho do script. O resultado serve para conferência: compare com a tabela de fatores da CGJ/TJRJ antes de usar em peça.
+**Casos com várias rubricas** (`--caso`): um JSON soma créditos e deduz débitos, cada rubrica com seus próprios critérios, além de percentuais sobre outra rubrica (ex.: multa compensatória de 20% sobre os valores pagos corrigidos) e divisão em entrada + parcelas. A saída é uma memória de cálculo em Markdown, com anexos mês a mês quando se usa `--detalhe`. Modelo em `exemplos/restituicao-compra-venda.json`.
+
+Este repositório é **público**: guarde casos reais (com nomes, endereços e processos) na pasta `casos/`, que fica fora do Git (`.gitignore`).
+
+Séries usadas: IPCA 433, IPCA-E 10764, INPC 188, IGP-M 189, taxa legal 29543. Por trás de proxy, rode com `NODE_USE_ENV_PROXY=1`. As convenções de contagem (meses de correção, proporção de agosto/2024, juros simples pro rata die sobre o valor corrigido, do dia seguinte ao termo inicial até a data final, art. 132 CC) estão descritas no cabeçalho do script. O resultado serve para conferência: compare com a tabela de fatores da CGJ/TJRJ antes de usar em peça.

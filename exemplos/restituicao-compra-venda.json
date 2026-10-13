@@ -1,0 +1,90 @@
+{
+ "titulo": "Exemplo: restituição na rescisão de compromisso de compra e venda",
+ "subtitulo": "Dados fictícios de partes; valores e datas ilustrativos. Valores pagos corrigidos pelo IPCA, menos multa compensatória de 20% sobre o valor corrigido, menos aluguéis não pagos com IPCA e taxa legal.",
+ "dataFinal": "12/10/2026",
+ "rubricas": [
+  {
+   "id": "pagos",
+   "nome": "Valores pagos pelos compradores",
+   "sinal": "+",
+   "nota": "Valores efetivamente pagos. O contrato não convenciona índice para a restituição: IPCA (art. 389, par. único, CC). Índice do mês do desembolso (inclusive) até 09/2026, sem pro rata.",
+   "criterios": {
+    "indiceAntes": "ipca",
+    "indiceDepois": "ipca",
+    "jurosAntes": 0,
+    "jurosDepois": 0
+   },
+   "parcelas": [
+    {
+     "descricao": "Sinal",
+     "valor": 850000,
+     "data": "13/12/2023"
+    },
+    {
+     "descricao": "1ª parcela, pagamento parcial",
+     "valor": 20040,
+     "data": "20/01/2025"
+    }
+   ]
+  },
+  {
+   "id": "multa",
+   "nome": "Multa compensatória (Par. 18)",
+   "sinal": "-",
+   "percentual": 20,
+   "base": "pagos",
+   "sobre": "corrigido"
+  },
+  {
+   "id": "alugueis",
+   "nome": "Aluguéis do Aditivo II não pagos",
+   "sinal": "-",
+   "nota": "Vencimento no 5º dia útil do mês de competência. Mora desde o vencimento (art. 397 CC). Sem encargo contratual: IPCA (art. 389) e taxa legal (art. 406, Res. CMN 5.171/2024).",
+   "criterios": {
+    "indiceAntes": "ipca",
+    "indiceDepois": "ipca",
+    "jurosAntes": "legal",
+    "jurosDepois": "legal"
+   },
+   "parcelas": [
+    {
+     "descricao": "09/2025",
+     "valor": 2000,
+     "data": "05/09/2025"
+    },
+    {
+     "descricao": "10/2025",
+     "valor": 2000,
+     "data": "08/10/2025"
+    },
+    {
+     "descricao": "11/2025",
+     "valor": 2000,
+     "data": "07/11/2025"
+    },
+    {
+     "descricao": "12/2025",
+     "valor": 5000,
+     "data": "05/12/2025"
+    },
+    {
+     "descricao": "01/2026",
+     "valor": 5000,
+     "data": "09/01/2026"
+    },
+    {
+     "descricao": "02/2026",
+     "valor": 5000,
+     "data": "06/02/2026"
+    }
+   ]
+  }
+ ],
+ "parcelamento": {
+  "entradaPercentual": 50,
+  "parcelas": 10
+ },
+ "observacoes": [
+  "Exemplo de configuração de caso para a calculadora."
+ ]
+}
