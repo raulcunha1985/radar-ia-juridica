@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-10-13T17:37:04.319Z",
+ "atualizadoEm": "2026-10-14T15:11:23.157Z",
  "janelaDias": 45,
- "total": 150,
+ "total": 152,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Judiciário reage a prompt injection, mas lacunas dificultam punição e prevenção",
+   "url": "https://conjur.com.br/2026-out-14/judiciario-reage-a-prompt-injection-mas-lacunas-dificultam-punicao-e-prevencao/",
+   "resumoFeed": "A identificação de comandos ocultos à inteligência artificial em peças jurídicas, conhecidos como prompt injection, tem produzido uma jurisprudência recente voltada à responsabilização de advogados autores da prática. Ainda existem, porém, lacunas institucionais que dificultam o efetivo enfrentamento da conduta no meio jurídico. É o que avaliam os especialistas ouvidos pela revista eletrônica Cons",
+   "data": "2026-10-14",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-14"
+  },
+  {
+   "titulo": "Projeto na CAS cria diretrizes para uso da inteligência artificial na saúde",
+   "url": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude",
+   "resumoFeed": "O uso da inteligência artificial na área da saúde observará a proteção e segurança do paciente, além da transparência e a preservação da autonomia dos profissionais do setor, entre outros fundamentos. É o que determina o projeto de lei que estabelece as diretrizes para a utilização de sistemas de inteligência artificial na saúde. O PL 931/2026, da senadora Dra. Eudócia (PSDB-AL), é relatado pela s",
+   "data": "2026-10-14",
+   "fonte": "Senado",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-14"
+  },
+  {
+   "titulo": "Floqer’s AI agents research sales prospects so teams don’t have to",
+   "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+   "resumoFeed": "Floqer is an autonomous customer knowledge platform that provides business-to-business sales and marketing teams with an AI-powered database designed to continuously collect, organize, and update the information used to understand their customers. Floqer is pitching Wednesday on the Startup Battlefield stage at TechCrunch Disrupt 2026. The startup told TechCrunch ahead of the presentation that it ",
+   "data": "2026-10-14",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-14"
+  },
   {
    "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
@@ -21,6 +48,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-13"
+  },
+  {
+   "titulo": "Facebook is giving users more control over their algorithm",
+   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+   "resumoFeed": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+   "data": "2026-10-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-14"
   },
   {
    "titulo": "Meta releases its first frontier model, Muse Wonder",
@@ -1335,24 +1371,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-08-31"
-  },
-  {
-   "titulo": "TSE recebe lançamento de três livros de Direito Eleitoral na 3ª (1º/9)",
-   "url": "https://conjur.com.br/2026-ago-29/tse-recebe-lancamento-de-tres-livros-de-direito-eleitoral-na-3a-1o-9/",
-   "resumoFeed": "Três novas obras da Editora Sobredireito sobre aspectos centrais do Direito Eleitoral serão lançadas na terça-feira (1º/9), às 18h, no Tribunal Superior Eleitoral, em Brasília. Propaganda eleitoral: liberdade de expressão, algoritmos e inteligência artificial é organizada pela ex-ministra substituta do TSE Vera Lúcia Santana Araújo, pelo defensor público do Rio de Janeiro William Akerman, pelo […]",
-   "data": "2026-08-29",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-29"
-  },
-  {
-   "titulo": "TSE decide avaliar filtro do X para recomendação de candidatos",
-   "url": "https://conjur.com.br/2026-ago-29/tse-decide-avaliar-filtro-do-x-para-recomendacao-de-candidatos/",
-   "resumoFeed": "O Tribunal Superior Eleitoral vai avaliar se o X (ex-Twitter), ao estabelecer um filtro para barrar a recomendação de candidatos durante a campanha eleitoral brasileira, deixou de incluir perfis, abrindo brecha para tratamento desigual pelo algoritmo. A alegação feita pela Coligação Brasil Pronto Para Mais, que tem Luiz Inácio Lula da Silva (PT) como candidato […] O post TSE decide avaliar filtro ",
-   "data": "2026-08-29",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-08-29"
   }
  ]
 }
