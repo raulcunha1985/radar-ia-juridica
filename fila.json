@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-14T15:11:23.157Z",
+ "atualizadoEm": "2026-10-15T15:04:49.010Z",
  "janelaDias": 45,
- "total": 152,
+ "total": 155,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "OAB Rio ganha ação que proíbe plataforma de oferecer petições com IA",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/oab-rio-ganha-acao-que-proibe-plataforma-de-oferecer-peticoes-com-ia",
+   "resumoFeed": "A Ordem dos Advogados do Brasil, seccional do Rio de Janeiro (OABRJ) obteve na Justiça Federal uma vitória no caso envolvendo a plataforma Resolve Juizado, que oferece a elaboração automatizada de petições por meio de inteligência artificial, mediante pagamento de R$ 20. A entidade apresentou apelação para reverter decisão anterior no processo e conseguiu proibir a cobrança pelas petições disponib",
+   "data": "2026-10-15",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-15"
+  },
+  {
+   "titulo": "Figma announces new features to define how agents work on its platform",
+   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+   "resumoFeed": "Figma is also releasing its code layers feature in open beta.",
+   "data": "2026-10-15",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-15"
+  },
   {
    "titulo": "Judiciário reage a prompt injection, mas lacunas dificultam punição e prevenção",
    "url": "https://conjur.com.br/2026-out-14/judiciario-reage-a-prompt-injection-mas-lacunas-dificultam-punicao-e-prevencao/",
@@ -30,6 +48,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-14"
+  },
+  {
+   "titulo": "Campanha de Lula vai ao TSE após IA da Meta restringir buscas",
+   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/campanha-de-lula-vai-ao-tse-apos-ia-da-meta-restringir-buscas",
+   "resumoFeed": "A campanha do candidato à reeleição Luiz Inácio Lula da Silva (PT) acionou nesta quarta-feira (14) o Tribunal Superior Eleitoral (TSE) após constatar restrições na entrega de postagens aos usuários de plataformas da Meta (Facebook, Instagram e WhatsApp). Além das restrições relacionadas às postagens, a campanha também citou que comandos para geração de imagens de inteligência artificial não permit",
+   "data": "2026-10-14",
+   "fonte": "Agência Brasil — Justiça",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-15"
   },
   {
    "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
