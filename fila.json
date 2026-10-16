@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-15T15:04:49.010Z",
+ "atualizadoEm": "2026-10-16T14:53:56.928Z",
  "janelaDias": 45,
- "total": 155,
+ "total": 157,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -21,6 +21,33 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-15"
+  },
+  {
+   "titulo": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "resumoFeed": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "data": "2026-10-15",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-16"
+  },
+  {
+   "titulo": "Meta launches an open-weight AI model that runs on Macs",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "resumoFeed": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+   "data": "2026-10-15",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-16"
+  },
+  {
+   "titulo": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "resumoFeed": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+   "data": "2026-10-15",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-16"
   },
   {
    "titulo": "Judiciário reage a prompt injection, mas lacunas dificultam punição e prevenção",
@@ -1389,15 +1416,6 @@
    "fonte": "Google — The Keyword",
    "trilha": "players",
    "coletadoEm": "2026-09-03"
-  },
-  {
-   "titulo": "Meeting note-taker Circleback adds a free tier to attract more customers",
-   "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-   "resumoFeed": "Circleback is also introducing new pricing plans starting from $14 per month.",
-   "data": "2026-08-31",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-08-31"
   }
  ]
 }
