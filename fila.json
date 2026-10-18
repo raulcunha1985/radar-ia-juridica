@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-17T13:45:34.983Z",
+ "atualizadoEm": "2026-10-18T14:02:36.489Z",
  "janelaDias": 45,
- "total": 155,
+ "total": 152,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Replit makes OpenAI its default over Anthropic, CEO says",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "resumoFeed": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+   "data": "2026-10-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-18"
+  },
   {
    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -1362,42 +1371,6 @@
    "fonte": "Câmara — Direito e Justiça",
    "trilha": "juridico",
    "coletadoEm": "2026-09-06"
-  },
-  {
-   "titulo": "TSE rejeita ação para derrubar imagem de Bolsonaro feita por IA",
-   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-rejeita-acao-para-derrubar-imagem-de-bolsonaro-feita-por-ia",
-   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (1º) rejeitar uma ação protocolada pelo PT contra a divulgação de um vídeo do ex-presidente Jair Bolsonaro feito por inteligência artificial (IA). O caso veio à tona após o candidato à Presidência da República Flávio Bolsonaro (PL) usar a simulação de um pronunciamento do pai, que está em prisão domiciliar, durante o evento de lançament",
-   "data": "2026-09-02",
-   "fonte": "Agência Brasil — Justiça",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-02"
-  },
-  {
-   "titulo": "Justiça 4.0 oferta cursos avançados de ciência de dados",
-   "url": "https://www.cnj.jus.br/justica-4-0-oferta-cursos-avancados-de-ciencia-de-dados/",
-   "resumoFeed": "O Conselho Nacional de Justiça (CNJ) disponibilizou a magistradas, magistrados, servidoras e servidores da Justiça brasileira as capacitações autoinstrucionais em Machine Learning Avançado e Aplicações e Dashboards Avançado com R. As formações integram o Programa Justiça 4.0, iniciativa do CNJ com o Programa das Nações Unidas para o Desenvolvimento (Pnud), e são ofertadas em parceria […] The post ",
-   "data": "2026-09-02",
-   "fonte": "CNJ",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-03"
-  },
-  {
-   "titulo": "OpenAI’s new reasoning technique alarms AI safety experts",
-   "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-   "resumoFeed": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-   "data": "2026-09-02",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-03"
-  },
-  {
-   "titulo": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-   "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-   "resumoFeed": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-   "data": "2026-09-02",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-03"
   }
  ]
 }
