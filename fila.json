@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-19T16:59:38.904Z",
+ "atualizadoEm": "2026-10-20T15:08:06.790Z",
  "janelaDias": 45,
- "total": 144,
+ "total": 142,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+   "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+   "resumoFeed": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+   "data": "2026-10-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-20"
+  },
+  {
+   "titulo": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "resumoFeed": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+   "data": "2026-10-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-20"
+  },
   {
    "titulo": "Replit makes OpenAI its default over Anthropic, CEO says",
    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -1263,42 +1281,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-09-07"
-  },
-  {
-   "titulo": "Justiça dos EUA começa a punir litigantes por uso de comandos ocultos para IA",
-   "url": "https://conjur.com.br/2026-set-04/justica-dos-eua-comeca-a-punir-litigantes-por-uso-de-comandos-ocultos-para-ia/",
-   "resumoFeed": "O primeiro caso documentado de petição com comandos ocultos para burlar sistemas de inteligência artificial da Justiça, o chamado prompt injection, foi detectado nos Estados Unidos. Uma corte de Connecticut descobriu, em uma petição, “um texto formatado em fonte minúscula e branca, sobre fundo branco, invisível ao olho humano, mas legível por qualquer máquina de […] O post Justiça dos EUA começa a",
-   "data": "2026-09-04",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-04"
-  },
-  {
-   "titulo": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-   "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-   "resumoFeed": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-   "data": "2026-09-04",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-05"
-  },
-  {
-   "titulo": "What will Apple’s John Ternus era look like?",
-   "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-   "resumoFeed": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-   "data": "2026-09-04",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-05"
-  },
-  {
-   "titulo": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-   "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-   "resumoFeed": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-   "data": "2026-09-04",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-05"
   }
  ]
 }
