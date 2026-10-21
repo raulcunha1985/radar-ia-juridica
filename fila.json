@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-20T15:08:06.790Z",
+ "atualizadoEm": "2026-10-21T15:18:42.047Z",
  "janelaDias": 45,
- "total": 142,
+ "total": 148,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "resumoFeed": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+   "data": "2026-10-21",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-21"
+  },
   {
    "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
@@ -12,6 +21,51 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-20"
+  },
+  {
+   "titulo": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
+   "resumoFeed": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+   "data": "2026-10-20",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-21"
+  },
+  {
+   "titulo": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "resumoFeed": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "data": "2026-10-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-21"
+  },
+  {
+   "titulo": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "resumoFeed": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+   "data": "2026-10-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-21"
+  },
+  {
+   "titulo": "ChatGPT now lets you lock your chats",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "resumoFeed": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+   "data": "2026-10-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-21"
+  },
+  {
+   "titulo": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "resumoFeed": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+   "data": "2026-10-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-21"
   },
   {
    "titulo": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
