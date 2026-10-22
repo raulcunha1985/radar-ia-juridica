@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-21T15:18:42.047Z",
+ "atualizadoEm": "2026-10-22T15:19:23.529Z",
  "janelaDias": 45,
- "total": 148,
+ "total": 149,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,24 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-10-21"
+  },
+  {
+   "titulo": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "resumoFeed": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+   "data": "2026-10-21",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-22"
+  },
+  {
+   "titulo": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "resumoFeed": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+   "data": "2026-10-21",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-22"
   },
   {
    "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
@@ -1323,15 +1341,6 @@
    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
    "resumoFeed": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
    "data": "2026-09-07",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-07"
-  },
-  {
-   "titulo": "Research acceleration: The view inside OpenAI",
-   "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "resumoFeed": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-   "data": "2026-09-06",
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-09-07"
