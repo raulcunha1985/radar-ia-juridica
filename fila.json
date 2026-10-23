@@ -1,9 +1,72 @@
 {
- "atualizadoEm": "2026-10-22T15:19:23.529Z",
+ "atualizadoEm": "2026-10-23T15:08:05.256Z",
  "janelaDias": 45,
- "total": 149,
+ "total": 155,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Uso de IA em petições amplia desafios no combate à litigância abusiva",
+   "url": "https://conjur.com.br/2026-out-23/uso-de-ia-em-peticoes-amplia-desafios-no-combate-a-litigancia-abusiva/",
+   "resumoFeed": "A inteligência artificial facilita a produção de documentos jurídicos e a análise de grandes volumes de informações, mas também cria desafios para a identificação de irregularidades no sistema de Justiça. O tema será discutido no painel “Litigância Abusiva: Como Enfrentar o Contencioso de Volume com Estratégia e Escala”, durante a Fenalaw 2026. Freepik Para Marina […] O post Uso de IA em petições ",
+   "data": "2026-10-23",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "Áudio: TSE oferece assistente virtual aos tribunais regionais para orientar eleitores",
+   "url": "https://www12.senado.leg.br/noticias/audios/2026/10/tse-oferece-assistente-virtual-aos-tribunais-regionais-para-orientar-eleitores",
+   "resumoFeed": "O Tribunal Superior Eleitoral (TSE) disponibilizou aos tribunais regionais o ChatVote, assistente virtual que usa inteligência artificial para tirar dúvidas sobre serviços eleitorais. Já disponível no portal do TSE e no aplicativo e-Título, a ferramenta também poderá ser integrada aos sites dos tribunais regionais. Pelo ChatVote (que aparece no canto inferior direito do site), o eleitor pode consu",
+   "data": "2026-10-23",
+   "fonte": "Senado",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "resumoFeed": "Fast, focused, low-cost decisions for any application.",
+   "data": "2026-10-22",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "resumoFeed": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+   "data": "2026-10-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "Canva releases its first image generation model",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "resumoFeed": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "data": "2026-10-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "resumoFeed": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "data": "2026-10-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "Uber puts all 30,000 employees on ChatGPT Work",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "resumoFeed": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+   "data": "2026-10-22",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-23"
+  },
   {
    "titulo": "OpenAI models are coming to Google Cloud",
    "url": "https://openai.com/index/openai-models-google-cloud",
@@ -1335,15 +1398,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-09"
-  },
-  {
-   "titulo": "Supporting independent journalism in Ukraine",
-   "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-   "resumoFeed": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-   "data": "2026-09-07",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-07"
   }
  ]
 }
