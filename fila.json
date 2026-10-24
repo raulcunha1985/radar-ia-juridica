@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-23T15:08:05.256Z",
+ "atualizadoEm": "2026-10-24T14:01:41.601Z",
  "janelaDias": 45,
- "total": 155,
+ "total": 154,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -21,6 +21,15 @@
    "fonte": "Senado",
    "trilha": "juridico",
    "coletadoEm": "2026-10-23"
+  },
+  {
+   "titulo": "Securing our frontier model training environment",
+   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+   "resumoFeed": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+   "data": "2026-10-23",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-24"
   },
   {
    "titulo": "Build more responsive apps with the Decisions API",
@@ -1380,24 +1389,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-10"
-  },
-  {
-   "titulo": "Introducing ChatGPT Images 2.5",
-   "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-   "resumoFeed": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-   "data": "2026-09-08",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-09"
-  },
-  {
-   "titulo": "Meta debuts its Muse AI agent. Will consumers trust it?",
-   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-   "resumoFeed": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-   "data": "2026-09-08",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-09"
   }
  ]
 }
