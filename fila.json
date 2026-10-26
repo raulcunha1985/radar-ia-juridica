@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-25T14:24:34.994Z",
+ "atualizadoEm": "2026-10-26T16:48:38.118Z",
  "janelaDias": 45,
- "total": 153,
+ "total": 148,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Fenalaw começa nesta terça-feira com debates sobre gestão e inovação",
+   "url": "https://conjur.com.br/2026-out-26/fenalaw-comeca-nesta-terca-com-debates-sobre-gestao-e-inovacao/",
+   "resumoFeed": "A partir desta terça-feira (27/10), e até quinta (29/10), a Fenalaw 2026 receberá profissionais do mercado jurídico no Transamerica Expo Center, em São Paulo, para uma programação dedicada às decisões que afetam a gestão de escritórios e departamentos jurídicos. As plenárias de abertura abordarão segurança jurídica, resultados da inteligência artificial e liderança humana, enquanto os […] O post F",
+   "data": "2026-10-26",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-26"
+  },
   {
    "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -1326,60 +1335,6 @@
    "fonte": "CNJ",
    "trilha": "juridico",
    "coletadoEm": "2026-09-12"
-  },
-  {
-   "titulo": "Dimensão analítica: o lado negligenciado no uso de IA",
-   "url": "https://conjur.com.br/2026-set-10/dimensao-analitica-o-lado-negligenciado-no-uso-de-ia/",
-   "resumoFeed": "O resultado da pesquisa TIC Governo Eletrônico 2025 [1] instrumentaliza uma intuição generalizada em relação ao crescimento do uso de inteligência artificial — doravante referida tão-somente como IA — em órgãos públicos no Brasil. A comparação com os números de 2023 [2] da mesma instituição revela uma acentuada curva de incorporação da referida tecnologia e, […] O post Dimensão analítica: o lado n",
-   "data": "2026-09-10",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-10"
-  },
-  {
-   "titulo": "Now everyone can put data to work",
-   "url": "https://openai.com/index/put-data-to-work",
-   "resumoFeed": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-   "data": "2026-09-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-11"
-  },
-  {
-   "titulo": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-   "resumoFeed": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-   "data": "2026-09-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-11"
-  },
-  {
-   "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "resumoFeed": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-   "data": "2026-09-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-11"
-  },
-  {
-   "titulo": "Introducing the Agents API",
-   "url": "https://openai.com/index/introducing-the-agents-api",
-   "resumoFeed": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-   "data": "2026-09-10",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-11"
-  },
-  {
-   "titulo": "Meta’s AI agent Muse is now the No. 2 app in the US",
-   "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-   "resumoFeed": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-   "data": "2026-09-10",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-11"
   }
  ]
 }
