@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-10-27T15:53:59.323Z",
+ "atualizadoEm": "2026-10-28T16:40:37.345Z",
  "janelaDias": 45,
- "total": 152,
+ "total": 157,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "‘Claude, leia o prospecto da Anthropic e me diga quanto ela vale’",
+   "url": "https://conjur.com.br/2026-out-28/claude-leia-o-prospecto-da-anthropic-e-me-diga-quanto-ela-vale/",
+   "resumoFeed": "Numa oferta pública de distribuição de valores mobiliários, o prospecto é o documento em que o emissor reúne, sob sua responsabilidade, a informação de que o investidor precisa para decidir se compra. Nele estão o negócio, os números, os riscos e as regras da relação com o novo acionista. A Anthropic, criadora do Claude, protocolou […] O post ‘Claude, leia o prospecto da Anthropic e me diga quanto",
+   "data": "2026-10-28",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-28"
+  },
+  {
+   "titulo": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "resumoFeed": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+   "data": "2026-10-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-28"
+  },
   {
    "titulo": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
@@ -21,6 +39,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-27"
+  },
+  {
+   "titulo": "Retell uses OpenAI models to help power 100M monthly calls",
+   "url": "https://openai.com/index/retell-ai",
+   "resumoFeed": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+   "data": "2026-10-27",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-28"
+  },
+  {
+   "titulo": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "resumoFeed": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+   "data": "2026-10-27",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-28"
   },
   {
    "titulo": "Fenalaw começa nesta terça-feira com debates sobre gestão e inovação",
@@ -309,6 +345,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-17"
+  },
+  {
+   "titulo": "How Grupo Boticário uses AI to strengthen human connections",
+   "url": "https://openai.com/index/grupo-boticario",
+   "resumoFeed": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+   "data": "2026-10-16",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-28"
+  },
+  {
+   "titulo": "How Localiza reorganized work around generative AI",
+   "url": "https://openai.com/index/localiza-generative-ai",
+   "resumoFeed": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+   "data": "2026-10-16",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-28"
   },
   {
    "titulo": "OAB Rio ganha ação que proíbe plataforma de oferecer petições com IA",
@@ -1362,15 +1416,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-15"
-  },
-  {
-   "titulo": "Admissibilidade e valoração da prova produzida por IA: roteiro para magistrado",
-   "url": "https://conjur.com.br/2026-set-12/a-admissibilidade-e-a-valoracao-da-prova-produzida-por-ia-um-roteiro-para-o-magistrado/",
-   "resumoFeed": "Joshua Puloka foi acusado da prática de três homicídios após um tiroteio ocorrido em 2021. A cena foi registrada pelo celular de uma testemunha e a defesa pretendia utilizar a gravação durante o julgamento. Mas, como as imagens foram gravadas em baixa resolução e com borrões durante o movimento, as cenas foram otimizadas e tratadas […] O post Admissibilidade e valoração da prova produzida por IA: ",
-   "data": "2026-09-12",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-12"
   }
  ]
 }
