@@ -1,9 +1,45 @@
 {
- "atualizadoEm": "2026-10-28T16:40:37.345Z",
+ "atualizadoEm": "2026-10-29T16:56:41.877Z",
  "janelaDias": 45,
- "total": 157,
+ "total": 163,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Deepfakes exigem maior rigor na prova penal",
+   "url": "https://conjur.com.br/2026-out-29/deepfakes-exigem-maior-rigor-na-prova-penal/",
+   "resumoFeed": "Uma gravação convincente não deve receber o peso de prova confiável sem que sua origem possa ser examinada. Com as deepfakes, a Justiça Criminal enfrenta a possibilidade de receber arquivos que reproduzem vozes e imagens de pessoas envolvidas em fatos que nunca ocorreram. A resposta exige maior rigor na demonstração da autenticidade e condições efetivas […] O post Deepfakes exigem maior rigor na p",
+   "data": "2026-10-29",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-10-29"
+  },
+  {
+   "titulo": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "resumoFeed": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+   "data": "2026-10-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-29"
+  },
+  {
+   "titulo": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "resumoFeed": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+   "data": "2026-10-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-29"
+  },
+  {
+   "titulo": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+   "resumoFeed": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+   "data": "2026-10-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-29"
+  },
   {
    "titulo": "‘Claude, leia o prospecto da Anthropic e me diga quanto ela vale’",
    "url": "https://conjur.com.br/2026-out-28/claude-leia-o-prospecto-da-anthropic-e-me-diga-quanto-ela-vale/",
@@ -21,6 +57,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-28"
+  },
+  {
+   "titulo": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "resumoFeed": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+   "data": "2026-10-28",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-29"
+  },
+  {
+   "titulo": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "resumoFeed": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+   "data": "2026-10-28",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-29"
   },
   {
    "titulo": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
