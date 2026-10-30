@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-10-29T16:56:41.877Z",
+ "atualizadoEm": "2026-10-30T16:43:07.724Z",
  "janelaDias": 45,
- "total": 163,
+ "total": 168,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "resumoFeed": "DoorDash said that it is open to working with third-party agent makers.",
+   "data": "2026-10-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-30"
+  },
   {
    "titulo": "Deepfakes exigem maior rigor na prova penal",
    "url": "https://conjur.com.br/2026-out-29/deepfakes-exigem-maior-rigor-na-prova-penal/",
@@ -39,6 +48,33 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-29"
+  },
+  {
+   "titulo": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "resumoFeed": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "data": "2026-10-29",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-10-30"
+  },
+  {
+   "titulo": "Granola crunches up a dictation feature to compete with Wispr",
+   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "resumoFeed": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+   "data": "2026-10-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-30"
+  },
+  {
+   "titulo": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "resumoFeed": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+   "data": "2026-10-29",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-30"
   },
   {
    "titulo": "‘Claude, leia o prospecto da Anthropic e me diga quanto ela vale’",
@@ -624,6 +660,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-09"
+  },
+  {
+   "titulo": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
+   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
+   "resumoFeed": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find customer context, take action, and move work forward. AI is inverting that model. This shift creates two complementary opportunities: greater individual productivity and organization-wide process transformation. The post Bringing CRM into the flow o",
+   "data": "2026-10-08",
+   "fonte": "Microsoft 365",
+   "trilha": "players",
+   "coletadoEm": "2026-10-30"
   },
   {
    "titulo": "Introducing Playground: Create and play custom games",
@@ -1463,13 +1508,13 @@
    "coletadoEm": "2026-09-17"
   },
   {
-   "titulo": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-   "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-   "resumoFeed": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-   "data": "2026-09-14",
-   "fonte": "TechCrunch — IA",
+   "titulo": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
+   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
+   "resumoFeed": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely. The post Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead appeared first on Microsoft Copilot Blog .",
+   "data": "2026-09-15",
+   "fonte": "Microsoft 365",
    "trilha": "players",
-   "coletadoEm": "2026-09-15"
+   "coletadoEm": "2026-10-30"
   }
  ]
 }
