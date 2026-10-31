@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-10-30T16:43:07.724Z",
+ "atualizadoEm": "2026-10-31T15:45:19.138Z",
  "janelaDias": 45,
- "total": 168,
+ "total": 167,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,33 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-30"
+  },
+  {
+   "titulo": "Last-minute Halloween costumes for tech nerds",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "resumoFeed": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "data": "2026-10-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-31"
+  },
+  {
+   "titulo": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "resumoFeed": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "data": "2026-10-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-31"
+  },
+  {
+   "titulo": "Google’s first data center satellite is online and writing poetry",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "resumoFeed": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "data": "2026-10-30",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-10-31"
   },
   {
    "titulo": "Deepfakes exigem maior rigor na prova penal",
@@ -1479,42 +1506,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-09-17"
-  },
-  {
-   "titulo": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-   "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-   "resumoFeed": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-   "data": "2026-09-15",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-15"
-  },
-  {
-   "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "resumoFeed": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-   "data": "2026-09-15",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-16"
-  },
-  {
-   "titulo": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
-   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
-   "resumoFeed": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely. The post Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead appeared first on Microsoft 365 Blog .",
-   "data": "2026-09-15",
-   "fonte": "Microsoft 365",
-   "trilha": "players",
-   "coletadoEm": "2026-09-17"
-  },
-  {
-   "titulo": "Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead",
-   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/us-government/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
-   "resumoFeed": "Microsoft 365 G7 brings AI, Copilot, agent governance, security, and compliance together to help government agencies modernize securely. The post Introducing Microsoft 365 G7: Intelligence + Trust for the mission ahead appeared first on Microsoft Copilot Blog .",
-   "data": "2026-09-15",
-   "fonte": "Microsoft 365",
-   "trilha": "players",
-   "coletadoEm": "2026-10-30"
   }
  ]
 }
