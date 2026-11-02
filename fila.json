@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-11-01T16:49:19.973Z",
+ "atualizadoEm": "2026-11-02T20:22:50.336Z",
  "janelaDias": 45,
- "total": 164,
+ "total": 161,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Introducing the Grid Protectors Program",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "resumoFeed": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+   "data": "2026-11-02",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-02"
+  },
+  {
+   "titulo": "LifeVal",
+   "url": "https://openai.com/index/lifeval",
+   "resumoFeed": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+   "data": "2026-11-02",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-02"
+  },
+  {
+   "titulo": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+   "resumoFeed": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "data": "2026-11-02",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-02"
+  },
   {
    "titulo": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
@@ -1425,60 +1452,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-19"
-  },
-  {
-   "titulo": "Projeto cria regras para identidade digital, uso de pseudônimos e conteúdos com IA",
-   "url": "https://www.camara.leg.br/noticias/1304625-projeto-cria-regras-para-identidade-digital-uso-de-pseudonimos-e-conteudos-com-ia",
-   "resumoFeed": "Texto está em análise na Câmara dos Deputados",
-   "data": "2026-09-17",
-   "fonte": "Câmara — Ciência e Tecnologia",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-17"
-  },
-  {
-   "titulo": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-   "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-   "resumoFeed": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
-   "data": "2026-09-17",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-17"
-  },
-  {
-   "titulo": "Iceland-based Treble raises $18 million for its voice simulation platform",
-   "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-   "resumoFeed": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-   "data": "2026-09-17",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-17"
-  },
-  {
-   "titulo": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-   "resumoFeed": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
-   "data": "2026-09-17",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-17"
-  },
-  {
-   "titulo": "Introducing Astra for Law",
-   "url": "https://openai.com/index/astra-for-law",
-   "resumoFeed": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-   "data": "2026-09-17",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-18"
-  },
-  {
-   "titulo": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-   "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-   "resumoFeed": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
-   "data": "2026-09-17",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-18"
   }
  ]
 }
