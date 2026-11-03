@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-11-02T20:22:50.336Z",
+ "atualizadoEm": "2026-11-03T17:52:42.473Z",
  "janelaDias": 45,
- "total": 161,
+ "total": 157,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -30,6 +30,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-02"
+  },
+  {
+   "titulo": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "resumoFeed": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "data": "2026-11-02",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-03"
+  },
+  {
+   "titulo": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "resumoFeed": "The one-year-old startup is now valued at $300 million.",
+   "data": "2026-11-02",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-03"
   },
   {
    "titulo": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
@@ -1398,60 +1416,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-20"
-  },
-  {
-   "titulo": "CNMP debate inovação e inteligência artificial na gestão pública durante o II Encontro Nacional de Gestão Orçamentária",
-   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19759-cnmp-debate-inovacao-e-inteligencia-artificial-na-gestao-publica-durante-o-ii-encontro-nacional-de-gestao-orcamentaria",
-   "resumoFeed": "O encontro, sediado em Fortaleza, reúne integrantes do MP de todo o Brasil para discutir experiências, ferramentas e estratégias voltadas ao aprimoramento da área orçamentária nas instituições ministeriais.&nbsp;",
-   "data": "2026-09-18",
-   "fonte": "CNMP",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-19"
-  },
-  {
-   "titulo": "Introducing the Australian Youth Safety Blueprint",
-   "url": "https://openai.com/index/australian-youth-safety-blueprint",
-   "resumoFeed": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-   "data": "2026-09-18",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-19"
-  },
-  {
-   "titulo": "World model companies are keeping a lot of secrets",
-   "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-   "resumoFeed": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-   "data": "2026-09-18",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-19"
-  },
-  {
-   "titulo": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-   "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-   "resumoFeed": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-   "data": "2026-09-18",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-19"
-  },
-  {
-   "titulo": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-   "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-   "resumoFeed": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-   "data": "2026-09-18",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-19"
-  },
-  {
-   "titulo": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-   "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-   "resumoFeed": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-   "data": "2026-09-18",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-19"
   }
  ]
 }
