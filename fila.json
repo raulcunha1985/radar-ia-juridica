@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-11-04T18:00:28.413Z",
+ "atualizadoEm": "2026-11-05T18:04:36.519Z",
  "janelaDias": 45,
- "total": 159,
+ "total": 163,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Curso online indenizará Drauzio Varella por uso de imagens falsas com IA",
+   "url": "https://conjur.com.br/2026-nov-05/curso-online-indenizara-drauzio-varella-por-uso-de-imagens-falsas-com-ia/",
+   "resumoFeed": "O uso não autorizado de nome, imagem e voz sintetizada de um profissional, com fins comerciais, configura dano moral presumido. Com esse entendimento, a 6ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo elevou de R$ 10 mil para R$ 70 mil a indenização devida a Drauzio Varella pelos responsáveis por um […] O post Curso online indenizará Drauzio Varella por uso de imagens falsas com I",
+   "data": "2026-11-05",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-05"
+  },
+  {
+   "titulo": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+   "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+   "resumoFeed": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+   "data": "2026-11-05",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-05"
+  },
+  {
+   "titulo": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+   "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+   "resumoFeed": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+   "data": "2026-11-05",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-05"
+  },
   {
    "titulo": "Daybreak Red is now available in AWS GovCloud (US-East)",
    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
@@ -12,6 +39,24 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-11-04"
+  },
+  {
+   "titulo": "Introducing Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "resumoFeed": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+   "data": "2026-11-04",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-05"
+  },
+  {
+   "titulo": "Almost no one uses AI agents to book their Uber, company says",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "resumoFeed": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "data": "2026-11-04",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-05"
   },
   {
    "titulo": "Anthropic is working on a system to prove AI models’ identity",
@@ -1425,15 +1470,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-22"
-  },
-  {
-   "titulo": "World model companies are keeping a lot of secrets",
-   "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-   "resumoFeed": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-   "data": "2026-09-20",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-21"
   }
  ]
 }
