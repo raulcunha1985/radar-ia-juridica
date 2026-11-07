@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-11-06T17:31:25.239Z",
+ "atualizadoEm": "2026-11-07T16:29:04.846Z",
  "janelaDias": 45,
- "total": 168,
+ "total": 166,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "O que é vibe lawyering? O futuro da advocacia quando a IA já respondeu",
+   "url": "https://conjur.com.br/2026-nov-07/o-que-e-vibe-lawyering-o-futuro-da-advocacia-quando-a-ia-ja-respondeu/",
+   "resumoFeed": "Antes de chegar ao escritório A comunidade jurídica tem dedicado especial atenção à ação civil ajuizada pela OAB de São Paulo, em 7 de outubro de 2026, contra a Enter, empresa que oferece inteligência artificial (IA) para atividades jurídicas. De um lado, a Ordem pede garantias de supervisão efetiva por advogados, transparência e proteção de […] O post O que é vibe lawyering ? O futuro da advocaci",
+   "data": "2026-11-07",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-07"
+  },
   {
    "titulo": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
@@ -30,6 +39,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-06"
+  },
+  {
+   "titulo": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "resumoFeed": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+   "data": "2026-11-06",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-07"
   },
   {
    "titulo": "Curso online indenizará Drauzio Varella por uso de imagens falsas com IA",
@@ -1479,42 +1497,6 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-09-24"
-  },
-  {
-   "titulo": "Introducing GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-   "resumoFeed": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-   "data": "2026-09-22",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-23"
-  },
-  {
-   "titulo": "Qualcomm launches two new smartphone chips with emphasis on AI",
-   "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-   "resumoFeed": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-   "data": "2026-09-22",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-23"
-  },
-  {
-   "titulo": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-   "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-   "resumoFeed": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-   "data": "2026-09-22",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-23"
-  },
-  {
-   "titulo": "AstroForge is putting AI in command of its next spacecraft",
-   "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-   "resumoFeed": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-   "data": "2026-09-22",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-23"
   }
  ]
 }
