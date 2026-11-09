@@ -1,9 +1,36 @@
 {
- "atualizadoEm": "2026-11-08T16:42:07.660Z",
+ "atualizadoEm": "2026-11-09T20:47:30.388Z",
  "janelaDias": 45,
- "total": 162,
+ "total": 160,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "resumoFeed": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+   "data": "2026-11-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-09"
+  },
+  {
+   "titulo": "Kuken Industries searches 70 years of drawings in minutes",
+   "url": "https://openai.com/index/kuken",
+   "resumoFeed": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+   "data": "2026-11-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-09"
+  },
+  {
+   "titulo": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "resumoFeed": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "data": "2026-11-09",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-09"
+  },
   {
    "titulo": "O que é vibe lawyering? O futuro da advocacia quando a IA já respondeu",
    "url": "https://conjur.com.br/2026-nov-07/o-que-e-vibe-lawyering-o-futuro-da-advocacia-quando-a-ia-ja-respondeu/",
@@ -1416,51 +1443,6 @@
    "fonte": "Microsoft 365",
    "trilha": "players",
    "coletadoEm": "2026-09-28"
-  },
-  {
-   "titulo": "IA, Sicx e o custo de não decidir",
-   "url": "https://conjur.com.br/2026-set-24/ia-sicx-e-o-custo-de-nao-decidir/",
-   "resumoFeed": "A administração pública tem sido insistentemente chamada a mergulhar no movimento mundial, que reclama inovação como característica exigível também na ação pública. Essa orientação se dá não só no incentivo à adoção do ideal de governo digital [1], mas também no desenho de políticas públicas [2]. Natural que essa mesma onda inovadora se apresentasse no […] O post IA, Sicx e o custo de não decidir ",
-   "data": "2026-09-24",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-24"
-  },
-  {
-   "titulo": "Everything new coming to Meta’s AI agent Muse",
-   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-   "resumoFeed": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-   "data": "2026-09-24",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-24"
-  },
-  {
-   "titulo": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-   "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-   "resumoFeed": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-   "data": "2026-09-24",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-24"
-  },
-  {
-   "titulo": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-   "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-   "resumoFeed": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-   "data": "2026-09-24",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-25"
-  },
-  {
-   "titulo": "Google tests letting Gemini call businesses for you",
-   "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-   "resumoFeed": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-   "data": "2026-09-24",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-25"
   }
  ]
 }
