@@ -1,9 +1,45 @@
 {
- "atualizadoEm": "2026-11-09T20:47:30.388Z",
+ "atualizadoEm": "2026-11-10T17:53:45.947Z",
  "janelaDias": 45,
- "total": 160,
+ "total": 158,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "resumoFeed": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "data": "2026-11-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-10"
+  },
+  {
+   "titulo": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "resumoFeed": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "data": "2026-11-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-10"
+  },
+  {
+   "titulo": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "resumoFeed": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "data": "2026-11-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-10"
+  },
+  {
+   "titulo": "Otter AI can now follow conversations across 30+ languages",
+   "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "resumoFeed": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "data": "2026-11-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-10"
+  },
   {
    "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -30,6 +66,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-09"
+  },
+  {
+   "titulo": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+   "url": "https://openai.com/index/control-room",
+   "resumoFeed": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+   "data": "2026-11-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-10"
   },
   {
    "titulo": "O que é vibe lawyering? O futuro da advocacia quando a IA já respondeu",
@@ -1380,69 +1425,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-27"
-  },
-  {
-   "titulo": "Deepfake eleitoral: Montana falha no teste da neutralidade e TSE aposta na verossimilhança",
-   "url": "https://conjur.com.br/2026-set-25/deepfake-eleitoral-montana-falha-no-teste-da-neutralidade-e-tse-aposta-na-verossimilhanca/",
-   "resumoFeed": "Ponto de partida Em 18 de setembro de 2026, a juíza federal Susan Watters, da Corte Distrital dos Estados Unidos em Montana, suspendeu a aplicação da lei SB25 na ação Accountability in State Government v. Knudsen (aqui). A norma proibia o patrocinador de comunicação eleitoral de distribuir deepfakes nos 60 dias anteriores à votação. A […] O post Deepfake eleitoral: Montana falha no teste da neutra",
-   "data": "2026-09-25",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-25"
-  },
-  {
-   "titulo": "Zanin manda investigar uso de IA para burlar sistema do STF",
-   "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf",
-   "resumoFeed": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF),determinou nesta sexta-feira (25) a abertura de investigação para apurar o uso de inteligência artificial (IA) para direcionar o sistema eletrônico da Corte. A medida foi tomada após o Supremo identificar o uso de prompt de comando para forçar o sistema eletrônico a aceitar automaticamente um recurso protocolado na Corte. Notícias relac",
-   "data": "2026-09-25",
-   "fonte": "Agência Brasil — Justiça",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-26"
-  },
-  {
-   "titulo": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-   "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-   "resumoFeed": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear",
-   "data": "2026-09-25",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-26"
-  },
-  {
-   "titulo": "Meta is putting its muscle behind Muse as the AI app takes off",
-   "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-   "resumoFeed": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-   "data": "2026-09-25",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-26"
-  },
-  {
-   "titulo": "Meta’s AI Tamagotchi bet is…working?",
-   "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-   "resumoFeed": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s ear",
-   "data": "2026-09-25",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-26"
-  },
-  {
-   "titulo": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-   "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-   "resumoFeed": "The latest unauthorized agent swarms were discovered by researchers.",
-   "data": "2026-09-25",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-26"
-  },
-  {
-   "titulo": "Introducing the new Copilot with Home, Code and Autopilot",
-   "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-   "resumoFeed": "We’re reimagining Microsoft Copilot to enable work as it evolves and to help expand what every individual and every organization can accomplish in the flow of human ambition. The post Introducing the new Copilot with Home, Code and Autopilot appeared first on AI at Work Blog .",
-   "data": "2026-09-25",
-   "fonte": "Microsoft 365",
-   "trilha": "players",
-   "coletadoEm": "2026-09-28"
   }
  ]
 }
