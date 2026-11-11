@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-11-10T17:53:45.947Z",
+ "atualizadoEm": "2026-11-11T17:54:53.953Z",
  "janelaDias": 45,
- "total": 158,
+ "total": 163,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "resumoFeed": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+   "data": "2026-11-11",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-11"
+  },
   {
    "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
@@ -39,6 +48,42 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-10"
+  },
+  {
+   "titulo": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "resumoFeed": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "data": "2026-11-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-11"
+  },
+  {
+   "titulo": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "resumoFeed": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "data": "2026-11-10",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-11"
+  },
+  {
+   "titulo": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "resumoFeed": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "data": "2026-11-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-11"
+  },
+  {
+   "titulo": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "resumoFeed": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "data": "2026-11-10",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-11"
   },
   {
    "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
