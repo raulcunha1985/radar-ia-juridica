@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-11-11T17:54:53.953Z",
+ "atualizadoEm": "2026-11-12T18:21:30.269Z",
  "janelaDias": 45,
- "total": 163,
+ "total": 164,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -12,6 +12,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-11"
+  },
+  {
+   "titulo": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "resumoFeed": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+   "data": "2026-11-11",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-11-12"
+  },
+  {
+   "titulo": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "resumoFeed": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+   "data": "2026-11-11",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-12"
   },
   {
    "titulo": "Google broadens its AI hardware portfolio with two new specialized chips",
@@ -1461,15 +1479,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-29"
-  },
-  {
-   "titulo": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-   "resumoFeed": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-   "data": "2026-09-27",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-27"
   }
  ]
 }
