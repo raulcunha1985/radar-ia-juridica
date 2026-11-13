@@ -1,9 +1,72 @@
 {
- "atualizadoEm": "2026-11-12T18:21:30.269Z",
+ "atualizadoEm": "2026-11-13T17:46:46.829Z",
  "janelaDias": 45,
- "total": 164,
+ "total": 165,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Caso Meta expõe urgência de fiscalizar governança dos algoritmos em eleições",
+   "url": "https://conjur.com.br/2026-nov-13/caso-meta-expoe-urgencia-de-fiscalizar-governanca-dos-algoritmos-em-eleicoes/",
+   "resumoFeed": "O Direito Eleitoral não pode mais restringir sua preocupação à licitude de mensagens políticas ou à regularidade dos mecanismos de propaganda eleitoral. Deve alcançar também as estruturas tecnológicas que definem a sua circulação e exigir governança algorítmica transparente. Essa é a conclusão que sobressai diante do caso da Meta, empresa dona do WhatsApp, Facebook e […] O post Caso Meta expõe urg",
+   "data": "2026-11-13",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "Introducing ChatGPT Wallet",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "resumoFeed": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "data": "2026-11-13",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "resumoFeed": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+   "data": "2026-11-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "resumoFeed": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+   "data": "2026-11-12",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "resumoFeed": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+   "data": "2026-11-12",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+   "resumoFeed": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+   "data": "2026-11-12",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+   "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+   "resumoFeed": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+   "data": "2026-11-12",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-13"
+  },
   {
    "titulo": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
@@ -1425,60 +1488,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-   "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-   "resumoFeed": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-   "data": "2026-09-28",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-28"
-  },
-  {
-   "titulo": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-   "resumoFeed": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-   "data": "2026-09-28",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-28"
-  },
-  {
-   "titulo": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-   "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-   "resumoFeed": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-   "data": "2026-09-28",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-28"
-  },
-  {
-   "titulo": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-   "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-   "resumoFeed": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-   "data": "2026-09-28",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-28"
-  },
-  {
-   "titulo": "OpenAI reportedly ditches model over safety concerns",
-   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-   "resumoFeed": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-   "data": "2026-09-28",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-29"
-  },
-  {
-   "titulo": "Shopify opens checkout to browser-based AI agents",
-   "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-   "resumoFeed": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-   "data": "2026-09-28",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-29"
   }
  ]
 }
