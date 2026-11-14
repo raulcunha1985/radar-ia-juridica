@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-11-13T17:46:46.829Z",
+ "atualizadoEm": "2026-11-14T16:37:31.085Z",
  "janelaDias": 45,
- "total": 165,
+ "total": 156,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -30,6 +30,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-13"
+  },
+  {
+   "titulo": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "resumoFeed": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "data": "2026-11-13",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-14"
   },
   {
    "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -1398,96 +1407,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-01"
-  },
-  {
-   "titulo": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-   "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-   "resumoFeed": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-29"
-  },
-  {
-   "titulo": "Meta is expanding its AI agent Muse to small businesses",
-   "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-   "resumoFeed": "The tech giant says the agent can help owners run their business and find new customers.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-29"
-  },
-  {
-   "titulo": "Reco raises $55M as AI agent security startups crowd the market",
-   "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-   "resumoFeed": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-29"
-  },
-  {
-   "titulo": "Introducing GPT-6.1 Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-   "resumoFeed": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-   "data": "2026-09-29",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "Introducing dots",
-   "url": "https://openai.com/index/introducing-dots",
-   "resumoFeed": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-   "data": "2026-09-29",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-   "resumoFeed": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "OpenAI’s latest features take direct aim at the app store model",
-   "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-   "resumoFeed": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-   "resumoFeed": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-   "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-   "resumoFeed": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "AI-powered app maker Wabi pivots to a messaging experience",
-   "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-   "resumoFeed": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-   "data": "2026-09-29",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
   }
  ]
 }
