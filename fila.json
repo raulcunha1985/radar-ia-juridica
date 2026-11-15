@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-11-14T16:37:31.085Z",
+ "atualizadoEm": "2026-11-15T17:13:42.416Z",
  "janelaDias": 45,
- "total": 156,
+ "total": 150,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "resumoFeed": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "data": "2026-11-14",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-15"
+  },
   {
    "titulo": "Caso Meta expõe urgência de fiscalizar governança dos algoritmos em eleições",
    "url": "https://conjur.com.br/2026-nov-13/caso-meta-expoe-urgencia-de-fiscalizar-governanca-dos-algoritmos-em-eleicoes/",
@@ -1344,69 +1353,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-02"
-  },
-  {
-   "titulo": "Formar para decidir: letramento digital no Judiciário",
-   "url": "https://conjur.com.br/2026-set-30/formar-para-decidir-letramento-digital-no-judiciario/",
-   "resumoFeed": "Em março deste ano, pesquisadores da Universidade Northwestern divulgaram, pela Sedona Conference, o primeiro levantamento por amostra aleatória sobre o uso de inteligência artificial por juízes federais norte-americanos. Dos 502 magistrados sorteados, responderam 112 (taxa de 22,3%). Entre os respondentes, 61,6% declararam usar ao menos uma ferramenta de IA no trabalho judicial, embora apenas 5,4",
-   "data": "2026-09-30",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "Meta disputes claim that Muse read a user’s private messages without permission",
-   "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-   "resumoFeed": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
-   "data": "2026-09-30",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "DoorDash launches an AI agent you can text to order food",
-   "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-   "resumoFeed": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-   "data": "2026-09-30",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-09-30"
-  },
-  {
-   "titulo": "Disrupting a coordinated model-distillation campaign",
-   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "resumoFeed": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-   "data": "2026-09-30",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-10-01"
-  },
-  {
-   "titulo": "Google releases Gemini 4 Argon, called its most powerful model yet",
-   "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-   "resumoFeed": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-   "data": "2026-09-30",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-01"
-  },
-  {
-   "titulo": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-   "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-   "resumoFeed": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
-   "data": "2026-09-30",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-01"
-  },
-  {
-   "titulo": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-   "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-   "resumoFeed": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-   "data": "2026-09-30",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-01"
   }
  ]
 }
