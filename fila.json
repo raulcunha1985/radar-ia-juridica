@@ -1,9 +1,81 @@
 {
- "atualizadoEm": "2026-11-16T20:31:25.946Z",
+ "atualizadoEm": "2026-11-17T19:11:53.624Z",
  "janelaDias": 45,
- "total": 147,
+ "total": 157,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "resumoFeed": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "data": "2026-11-17",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Introducing OpenAI for Chile",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "resumoFeed": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+   "data": "2026-11-17",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Astra for Law leads in legal intelligence",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "resumoFeed": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+   "data": "2026-11-17",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Put Gemini to work for you",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "resumoFeed": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+   "data": "2026-11-17",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+   "resumoFeed": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+   "data": "2026-11-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "As decision model use skyrockets, is customization the next frontier?",
+   "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "resumoFeed": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+   "data": "2026-11-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+   "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+   "resumoFeed": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+   "data": "2026-11-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "resumoFeed": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+   "data": "2026-11-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
   {
    "titulo": "Our first phase of embedded assessments",
    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
@@ -39,6 +111,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-16"
+  },
+  {
+   "titulo": "At Holiday Extras, dots get to work before anyone asks",
+   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+   "resumoFeed": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+   "data": "2026-11-16",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "resumoFeed": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "data": "2026-11-16",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
   },
   {
    "titulo": "A step toward defining the Standard Model on a lattice",
@@ -264,6 +354,15 @@
    "fonte": "OpenAI",
    "trilha": "players",
    "coletadoEm": "2026-11-10"
+  },
+  {
+   "titulo": "How VistaPrint helps small businesses get the word out",
+   "url": "https://openai.com/ads/customers/vistaprint",
+   "resumoFeed": "Small business owners preparing for a launch or an event often know what they want to accomplish before they know what to print. VistaPrint uses ChatGPT Ads to show how products like signs and branded merchandise can help them get the word out.",
+   "data": "2026-11-09",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-17"
   },
   {
    "titulo": "O que é vibe lawyering? O futuro da advocacia quando a IA já respondeu",
@@ -1317,15 +1416,6 @@
    "fonte": "ConJur",
    "trilha": "juridico",
    "coletadoEm": "2026-10-03"
-  },
-  {
-   "titulo": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "resumoFeed": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-   "data": "2026-10-02",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-10-02"
   }
  ]
 }
