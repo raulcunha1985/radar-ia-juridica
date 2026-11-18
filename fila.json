@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-11-17T19:11:53.624Z",
+ "atualizadoEm": "2026-11-18T18:52:53.095Z",
  "janelaDias": 45,
- "total": 157,
+ "total": 160,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "The Gemini app is now available on lower-memory Android devices.",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "resumoFeed": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "data": "2026-11-18",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-11-18"
+  },
+  {
+   "titulo": "Google’s AI feature in Search gets its own incognito mode",
+   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "resumoFeed": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+   "data": "2026-11-18",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-18"
+  },
   {
    "titulo": "Introducing GPT-6.2 Astra and Sol",
    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -75,6 +93,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-17"
+  },
+  {
+   "titulo": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "resumoFeed": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+   "data": "2026-11-17",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-18"
+  },
+  {
+   "titulo": "Model ML raises $250M to automate investment banking grunt work",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+   "resumoFeed": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+   "data": "2026-11-17",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-18"
   },
   {
    "titulo": "Our first phase of embedded assessments",
@@ -1407,15 +1443,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-06"
-  },
-  {
-   "titulo": "‘Companheiros de IA’ entram na mira do Ministério da Justiça e Segurança Pública",
-   "url": "https://conjur.com.br/2026-out-03/companheiros-de-ia-entram-na-mira-do-ministerio-da-justica-e-seguranca-publica/",
-   "resumoFeed": "Uma nova geração de serviços de inteligência artificial passou a oferecer “companhia”. Plataformas capazes de manter conversas recorrentes, armazenar informações sobre o usuário, adaptar respostas ao longo do tempo e simular traços de personalidade, amizade, afeto e até relações românticas. O que acontece quando esse tipo de tecnologia é utilizado por crianças e adolescentes? Nesta […] O post ‘Com",
-   "data": "2026-10-03",
-   "fonte": "ConJur",
-   "trilha": "juridico",
-   "coletadoEm": "2026-10-03"
   }
  ]
 }
