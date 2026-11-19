@@ -1,9 +1,54 @@
 {
- "atualizadoEm": "2026-11-18T18:52:53.095Z",
+ "atualizadoEm": "2026-11-19T19:00:21.923Z",
  "janelaDias": 45,
- "total": 160,
+ "total": 166,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Boas práticas: sistema com inteligência artificial aprimora gestão de riscos no Judiciário",
+   "url": "https://www.cnj.jus.br/boas-praticas-sistema-com-inteligencia-artificial-aprimora-gestao-de-riscos-no-judiciario/",
+   "resumoFeed": "Integrar a Gestão de Processos e a Gestão de Riscos em um único modelo, com apoio da inteligência artificial, para aprimorar o planejamento, prevenir falhas e tornar mais seguras as decisões administrativas. Essa é a proposta do ProRisk, desenvolvido pelo Tribunal Regional do Trabalho da 18ª Região (TRT-18), em Goiás. A prática faz parte das […] The post Boas práticas: sistema com inteligência art",
+   "data": "2026-11-19",
+   "fonte": "CNJ",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-19"
+  },
+  {
+   "titulo": "Introducing Tool Retrieval in the Gemini API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "resumoFeed": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+   "data": "2026-11-19",
+   "fonte": "Google — The Keyword",
+   "trilha": "players",
+   "coletadoEm": "2026-11-19"
+  },
+  {
+   "titulo": "Google gives Gemini the ability to use your Mac for you",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "resumoFeed": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+   "data": "2026-11-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-19"
+  },
+  {
+   "titulo": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+   "resumoFeed": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+   "data": "2026-11-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-19"
+  },
+  {
+   "titulo": "Superhuman pushes its Go assistant everywhere",
+   "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "resumoFeed": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+   "data": "2026-11-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-19"
+  },
   {
    "titulo": "The Gemini app is now available on lower-memory Android devices.",
    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
@@ -21,6 +66,15 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-18"
+  },
+  {
+   "titulo": "Managing frontier AI risk: From training to deployment",
+   "url": "https://openai.com/index/managing-frontier-ai-risk",
+   "resumoFeed": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "data": "2026-11-18",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-19"
   },
   {
    "titulo": "Introducing GPT-6.2 Astra and Sol",
