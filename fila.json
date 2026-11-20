@@ -1,9 +1,27 @@
 {
- "atualizadoEm": "2026-11-19T19:00:21.923Z",
+ "atualizadoEm": "2026-11-20T18:37:43.832Z",
  "janelaDias": 45,
- "total": 166,
+ "total": 165,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "OAB-RJ edita resolução para barrar intermediação irregular de serviços jurídicos",
+   "url": "https://conjur.com.br/2026-nov-20/oab-rj-edita-resolucao-para-barrar-intermediacao-irregular-de-servicos-juridicos/",
+   "resumoFeed": "A OAB-RJ publicou nesta quinta-feira (19/11) a Resolução 616/2026, primeira regulamentação do país voltada especificamente para disciplinar a atuação de empresas de tecnologia, plataformas digitais, marketplaces, companhias de inteligência artificial e terceiros não inscritos na ordem na cadeia de contratação e prestação de serviços advocatícios. Assinada pela presidente da seccional, Ana Tereza B",
+   "data": "2026-11-20",
+   "fonte": "ConJur",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-20"
+  },
+  {
+   "titulo": "Apple may be developing its own AI agent that runs your Mac",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+   "resumoFeed": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+   "data": "2026-11-20",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-20"
+  },
   {
    "titulo": "Boas práticas: sistema com inteligência artificial aprimora gestão de riscos no Judiciário",
    "url": "https://www.cnj.jus.br/boas-praticas-sistema-com-inteligencia-artificial-aprimora-gestao-de-riscos-no-judiciario/",
@@ -48,6 +66,24 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-11-19"
+  },
+  {
+   "titulo": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "resumoFeed": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+   "data": "2026-11-19",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-20"
+  },
+  {
+   "titulo": "These tech outages are giving Y2K, AI agent style",
+   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+   "resumoFeed": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+   "data": "2026-11-19",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-20"
   },
   {
    "titulo": "The Gemini app is now available on lower-memory Android devices.",
@@ -1452,51 +1488,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-07"
-  },
-  {
-   "titulo": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "resumoFeed": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
-   "data": "2026-10-05",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-06"
-  },
-  {
-   "titulo": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-   "resumoFeed": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-   "data": "2026-10-05",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-06"
-  },
-  {
-   "titulo": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-   "resumoFeed": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-   "data": "2026-10-05",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-06"
-  },
-  {
-   "titulo": "OpenAI launches visual ads that appear alongside image generation results",
-   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-   "resumoFeed": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-   "data": "2026-10-05",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-06"
-  },
-  {
-   "titulo": "Researchers are tracking a Chinese AI ‘agent fleet’",
-   "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-   "resumoFeed": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-   "data": "2026-10-05",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-06"
   }
  ]
 }
