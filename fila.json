@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-11-22T17:51:53.246Z",
+ "atualizadoEm": "2026-11-23T22:03:54.098Z",
  "janelaDias": 45,
- "total": 155,
+ "total": 151,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
+   "url": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
+   "resumoFeed": "A realização do fórum atende a requerimentos dos deputados Saulo Pedroso (PSD-SP) e Julio Cesar Ribeiro (Republicanos-DF)",
+   "data": "2026-11-23",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-23"
+  },
   {
    "titulo": "OAB-RJ edita resolução para barrar intermediação irregular de serviços jurídicos",
    "url": "https://conjur.com.br/2026-nov-20/oab-rj-edita-resolucao-para-barrar-intermediacao-irregular-de-servicos-juridicos/",
@@ -1353,51 +1362,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-10"
-  },
-  {
-   "titulo": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-   "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-   "resumoFeed": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-   "data": "2026-10-08",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-08"
-  },
-  {
-   "titulo": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-   "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-   "resumoFeed": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-   "data": "2026-10-08",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-08"
-  },
-  {
-   "titulo": "Google brings agentic AI to Gemini, starting with businesses",
-   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-   "resumoFeed": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
-   "data": "2026-10-08",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-09"
-  },
-  {
-   "titulo": "Anthropic changes usage policy to ban model abuse and election interference",
-   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-   "resumoFeed": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-   "data": "2026-10-08",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-09"
-  },
-  {
-   "titulo": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
-   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
-   "resumoFeed": "The traditional boundaries of business applications are disappearing. For decades, people went to their customer relationship management (CRM) to find customer context, take action, and move work forward. AI is inverting that model. This shift creates two complementary opportunities: greater individual productivity and organization-wide process transformation. The post Bringing CRM into the flow o",
-   "data": "2026-10-08",
-   "fonte": "Microsoft 365",
-   "trilha": "players",
-   "coletadoEm": "2026-10-30"
   }
  ]
 }
