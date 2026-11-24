@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-11-23T22:03:54.098Z",
+ "atualizadoEm": "2026-11-24T20:40:59.641Z",
  "janelaDias": 45,
  "total": 151,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "resumoFeed": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+   "data": "2026-11-24",
+   "fonte": "TechCrunch — IA",
+   "trilha": "players",
+   "coletadoEm": "2026-11-24"
+  },
   {
    "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
    "url": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
@@ -12,6 +21,24 @@
    "fonte": "Câmara — Ciência e Tecnologia",
    "trilha": "juridico",
    "coletadoEm": "2026-11-23"
+  },
+  {
+   "titulo": "Comissão aprova auditoria de licitações com inteligência artificial",
+   "url": "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial",
+   "resumoFeed": "Projeto prevê monitoramento automatizado e contínuo das contratações públicas",
+   "data": "2026-11-23",
+   "fonte": "Câmara — Ciência e Tecnologia",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-24"
+  },
+  {
+   "titulo": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "resumoFeed": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "data": "2026-11-23",
+   "fonte": "OpenAI",
+   "trilha": "players",
+   "coletadoEm": "2026-11-24"
   },
   {
    "titulo": "OAB-RJ edita resolução para barrar intermediação irregular de serviços jurídicos",
@@ -626,6 +653,15 @@
    "coletadoEm": "2026-11-06"
   },
   {
+   "titulo": "Bringing Claude models in Microsoft Copilot into the EU Data Boundary",
+   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/11/05/bringing-claude-models-in-microsoft-copilot-into-the-eu-data-boundary/",
+   "resumoFeed": "Greater model choice, consistent protection. Claude models are coming to the EU Data Boundary in Microsoft Copilot. The post Bringing Claude models in Microsoft Copilot into the EU Data Boundary appeared first on Microsoft Copilot Blog .",
+   "data": "2026-11-05",
+   "fonte": "Microsoft 365",
+   "trilha": "players",
+   "coletadoEm": "2026-11-24"
+  },
+  {
    "titulo": "Daybreak Red is now available in AWS GovCloud (US-East)",
    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
    "resumoFeed": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -977,6 +1013,15 @@
    "coletadoEm": "2026-10-24"
   },
   {
+   "titulo": "Introducing Microsoft Copilot for legal",
+   "url": "https://techcommunity.microsoft.com/blog/microsoft-copilot-blog/introducing-microsoft-copilot-for-legal/4564246",
+   "resumoFeed": "In legal work, the answer rarely sits neatly in one place. It may depend on precedent, organizational standards, or a regulatory consideration that changes the whole analysis. The post Introducing Microsoft Copilot for legal appeared first on Microsoft Copilot Blog .",
+   "data": "2026-10-23",
+   "fonte": "Microsoft 365",
+   "trilha": "players",
+   "coletadoEm": "2026-11-24"
+  },
+  {
    "titulo": "Build more responsive apps with the Decisions API",
    "url": "https://openai.com/index/decisions-api",
    "resumoFeed": "Fast, focused, low-cost decisions for any application.",
@@ -1317,51 +1362,6 @@
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-12"
-  },
-  {
-   "titulo": "a16z’s Olivia Moore on the state of consumer AI",
-   "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-   "resumoFeed": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-   "data": "2026-10-09",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-09"
-  },
-  {
-   "titulo": "Corregedoria Nacional do MP apresenta o projeto Bússola Digital, que abrange sistemas finalísticos, inteligência artificial, cibersegurança e governança de dados",
-   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19814-corregedoria-nacional-do-mp-apresenta-o-projeto-bussola-digital-que-abrange-sistemas-finalisticos-inteligencia-artificial-ciberseguranca-e-governanca-de-dados",
-   "resumoFeed": "Projeto foi apresentado no Expojud, evento voltado à tecnologia, à inovação e ao direito no ecossistema de Justiça.",
-   "data": "2026-10-09",
-   "fonte": "CNMP",
-   "trilha": "juridico",
-   "coletadoEm": "2026-10-10"
-  },
-  {
-   "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "resumoFeed": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "data": "2026-10-09",
-   "fonte": "OpenAI",
-   "trilha": "players",
-   "coletadoEm": "2026-10-10"
-  },
-  {
-   "titulo": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-   "resumoFeed": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-   "data": "2026-10-09",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-10"
-  },
-  {
-   "titulo": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-   "resumoFeed": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-   "data": "2026-10-09",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-10"
   }
  ]
 }
