@@ -1,7 +1,7 @@
 {
- "atualizadoEm": "2026-11-25T19:57:31.831Z",
+ "atualizadoEm": "2026-11-26T19:39:43.725Z",
  "janelaDias": 45,
- "total": 155,
+ "total": 154,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
   {
@@ -1386,15 +1386,6 @@
    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
    "resumoFeed": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
    "data": "2026-10-12",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-12"
-  },
-  {
-   "titulo": "Will the HomeView be Apple’s first smart home success?",
-   "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-   "resumoFeed": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-   "data": "2026-10-11",
    "fonte": "TechCrunch — IA",
    "trilha": "players",
    "coletadoEm": "2026-10-12"
