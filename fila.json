@@ -1,9 +1,18 @@
 {
- "atualizadoEm": "2026-11-27T19:29:49.737Z",
+ "atualizadoEm": "2026-11-28T18:15:13.074Z",
  "janelaDias": 45,
- "total": 153,
+ "total": 151,
  "observacao": "Matéria-prima bruta para curadoria. Os resumos vêm do próprio feed e NÃO devem ser publicados como texto próprio — servem só para o modelo julgar relevância e redigir resumo autoral.",
  "itens": [
+  {
+   "titulo": "CNMP debate riscos da inteligência artificial e da plataformização da educação para crianças e adolescentes",
+   "url": "https://www.cnmp.mp.br/portal/todas-as-noticias/19913-cnmp-debate-riscos-da-inteligencia-artificial-e-da-plataformizacao-da-educacao-para-criancas-e-adolescentes",
+   "resumoFeed": "Especialistas apontam medidas para proteger direitos no ambiente digital e garantir a soberania dos dados educacionais.",
+   "data": "2026-11-27",
+   "fonte": "CNMP",
+   "trilha": "juridico",
+   "coletadoEm": "2026-11-28"
+  },
   {
    "titulo": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
@@ -1353,33 +1362,6 @@
    "fonte": "Agência Brasil — Justiça",
    "trilha": "juridico",
    "coletadoEm": "2026-10-15"
-  },
-  {
-   "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "resumoFeed": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-   "data": "2026-10-13",
-   "fonte": "Google — The Keyword",
-   "trilha": "players",
-   "coletadoEm": "2026-10-13"
-  },
-  {
-   "titulo": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "resumoFeed": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "data": "2026-10-13",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-13"
-  },
-  {
-   "titulo": "Facebook is giving users more control over their algorithm",
-   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "resumoFeed": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-   "data": "2026-10-13",
-   "fonte": "TechCrunch — IA",
-   "trilha": "players",
-   "coletadoEm": "2026-10-14"
   }
  ]
 }
